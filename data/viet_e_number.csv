@@ -1,308 +1,307 @@
-﻿		Tên phụ gia
 STT	INS	Tiếng Việt	Tiếng Anh	Chức năng
-1.	100(i)	Curcumin	Curcumin	Phẩm màu
-2.	100(ii)	Turmeric	Turmeric	Phẩm màu
-3.	101(i)	"Riboflavin, tổng
+1	100(i)	Curcumin	Curcumin	Phẩm màu
+2	100(ii)	Turmeric	Turmeric	Phẩm màu
+3	101(i)	"Riboflavin, tổng
 hợp"	"Riboflavin,
 synthetic"	Phẩm màu
-4.	101(ii)	"Natri Riboflavin
+4	101(ii)	"Natri Riboflavin
 5'-phosphat"	"Riboflavin 5'-
 phosphate sodium"	Phẩm màu
-5.	101(iii)	"Riboflavin từ
+5	101(iii)	"Riboflavin từ
 Bacillus subtilis"	"Riboflavin from
 Bacillus subtilis"	Phẩm màu
-6.	102	Tartrazin	Tartrazine	Phẩm màu
-7.	104	Quinolin yellow	Quinoline yellow	Phẩm màu
-8.	110	Sunset yellow FCF	Sunset yellow FCF	Phẩm màu
-9.	120	Carmin	Carmines	Phẩm màu
-10.	122	"Azorubin
+6	102	Tartrazin	Tartrazine	Phẩm màu
+7	104	Quinolin yellow	Quinoline yellow	Phẩm màu
+8	110	Sunset yellow FCF	Sunset yellow FCF	Phẩm màu
+9	120	Carmin	Carmines	Phẩm màu
+10	122	"Azorubin
 (Carmoisin)"	"Azorubine
 (Carmoisine)"	Phẩm màu
-11.	123	Amaranth	Amaranth	Phẩm màu
-12.	124	"Ponceau 4R
+11	123	Amaranth	Amaranth	Phẩm màu
+12	124	"Ponceau 4R
 (Cochineal red A)"	"Ponceau 4R
 (Cochineal red A)"	Phẩm màu
-13.	127	Erythrosin	Erythrosine	Phẩm màu
-14.	129	Allura red AC	Allura red AC	Phẩm màu
-15.	132	"Indigotin
+13	127	Erythrosin	Erythrosine	Phẩm màu
+14	129	Allura red AC	Allura red AC	Phẩm màu
+15	132	"Indigotin
 (Indigocarmin)"	"Indigotine
 (Indigocarmine)"	Phẩm màu
-16.	133	Brilliant blue FCF	Brilliant blue FCF	Phẩm màu
-17.	140	Clorophylls	Chlorophylls	Phẩm màu
-
-
-18.	141(i)	"Phức đồng
+16	133	Brilliant blue FCF	Brilliant blue FCF	Phẩm màu
+17	140	Clorophylls	Chlorophylls	Phẩm màu
+				
+				
+18	141(i)	"Phức đồng
 clorophyll"	"Chlorophyll copper
 complexes"	Phẩm màu
-19.	141(ii)	"Phức đồng
+19	141(ii)	"Phức đồng
 clorophyllin (muối
 natri, kali của nó)"	"Chlorophyllins,
 copper complexes,
 sodium and
 potassium salts"	Phẩm màu
-20.	143	Fast green FCF	Fast green FCF	Phẩm màu
-21.	150a	"Caramen nhóm I
+20	143	Fast green FCF	Fast green FCF	Phẩm màu
+21	150a	"Caramen nhóm I
 (caramen nguyên
 chất)"	"Caramel I- plain
 caramel"	Phẩm màu
-22.	150b	"Caramen nhóm II
+22	150b	"Caramen nhóm II
 (caramen sulfit)"	"Caramel II - sulfite
 caramel"	Phẩm màu
-23.	150c	"Caramen nhóm III
+23	150c	"Caramen nhóm III
 (caramen amoni)"	"Caramel III -
 ammonia caramel"	Phẩm màu
-24.	150d	"Caramen nhóm IV
+24	150d	"Caramen nhóm IV
 (caramen amoni
 sulfit)"	"Caramel IV -sulfite
 ammonia caramel"	Phẩm màu
-25.	151	Brilliant black	Brilliant black	Phẩm màu
-26.	153	Carbon thực vật	Vegetable carbon	Phẩm màu
-27.	155	Brown HT	Brown HT	Phẩm màu
-28.	160a(i)	"Beta-caroten tổng
+25	151	Brilliant black	Brilliant black	Phẩm màu
+26	153	Carbon thực vật	Vegetable carbon	Phẩm màu
+27	155	Brown HT	Brown HT	Phẩm màu
+28	160a(i)	"Beta-caroten tổng
 hợp"	"Carotenes, beta-,
 synthetic"	Phẩm màu
-29.	160a(ii)	"Beta - Caroten
+29	160a(ii)	"Beta - Caroten
 (chiết xuất từ thực
 vật)"	"Carotenes, beta-,
 vegetable"	Phẩm màu
-30.	160a(iii)	"Beta-Caroten,
+30	160a(iii)	"Beta-Caroten,
 Blakeslea trispora"	"Carotenes, beta-,
 Blakeslea trispora"	Phẩm màu
-31.	160b(i)	"Chất chiết xuất từ
+31	160b(i)	"Chất chiết xuất từ
 annatto, bixin
 based"	"Annatto extracts,
 bixin-based"	Phẩm màu
-32.	160b(ii)	"Chất chiết xuất từ
+32	160b(ii)	"Chất chiết xuất từ
 annatto, norbixin-
 based"	"Annatto extracts,
 norbixin-based"	Phẩm màu
-
-
-33.	160c(i)	Paprika oleoresin	Paprika oleoresin	Phẩm màu
-34.	160d(i)	Lycopen tổng hợp	Lycopene, synthetic	Phẩm màu
-35.	160d(ii)	"Lycopen chiết xuất
+				
+				
+33	160c(i)	Paprika oleoresin	Paprika oleoresin	Phẩm màu
+34	160d(i)	Lycopen tổng hợp	Lycopene, synthetic	Phẩm màu
+35	160d(ii)	"Lycopen chiết xuất
 từ cà chua"	Lycopene, tomato	Phẩm màu
-36.	160d(iii)	"Lycopen,
+36	160d(iii)	"Lycopen,
 Blakeslea trispora"	"Lycopene, Blakeslea
 trispora"	Phẩm màu
-37.	160e	"beta-apo- 8'-
+37	160e	"beta-apo- 8'-
 Carotenal"	"Carotenal, beta-apo-
 8'-"	Phẩm màu
-38.	160f	"Este etyl của acid
+38	160f	"Este etyl của acid
 beta-apo-8'-
 Carotenoic"	"Carotenoic acid,
 ethyl ester, beta-
 apo-8'-"	Phẩm màu
-39.	161b(i)	"Lutein từ Tagetes
+39	161b(i)	"Lutein từ Tagetes
 erecta"	"Lutein from Tagetes
 erecta"	Phẩm màu
-40.	161b(iii)	"Lutein este từ
+40	161b(iii)	"Lutein este từ
 Tagetes erecta"	"Lutein esters from
 Tagetes erecta"	Phẩm màu
-41.	161g	Canthaxanthin	Canthaxanthin	Phẩm màu
-42.	161h(i)	"Zeaxanthin tổng
+41	161g	Canthaxanthin	Canthaxanthin	Phẩm màu
+42	161h(i)	"Zeaxanthin tổng
 hợp"	"Zeaxanthin,
 synthetic"	Phẩm màu
-43.	162	Beet red	Beet red	Phẩm màu
-44.	163(ii)	"Chất chiết xuất vỏ
+43	162	Beet red	Beet red	Phẩm màu
+44	163(ii)	"Chất chiết xuất vỏ
 nho"	Grape skin extract	Phẩm màu
-45.	163(iii)	"Chất chiết xuất từ
+45	163(iii)	"Chất chiết xuất từ
 quả lý chua đen"	Blackcurrant extract	Phẩm màu
-46.	163(iv)	Màu ngô tím	Purple corn colour	Phẩm màu
-47.	163(v)	Màu bắp cải đỏ	Red cabbage colour	Phẩm màu
-48.	163(vi)	"Chất chiết xuất từ
+46	163(iv)	Màu ngô tím	Purple corn colour	Phẩm màu
+47	163(v)	Màu bắp cải đỏ	Red cabbage colour	Phẩm màu
+48	163(vi)	"Chất chiết xuất từ
 cà rốt đen"	Black carrot extract	Phẩm màu
-49.	163(vii)	"Màu khoai lang
+49	163(vii)	"Màu khoai lang
 tím"	"Purple sweet potato
 colour"	Phẩm màu
-50.	163(viii)	Màu củ cải đỏ	Red radish colour	Phẩm màu
-51.	164	Gardenia yellow	Gardenia yellow	Phẩm màu
-52.	170(i)	Calci carbonat	Calcium carbonate	Chất  điều  chỉnh  độ
-
-
+50	163(viii)	Màu củ cải đỏ	Red radish colour	Phẩm màu
+51	164	Gardenia yellow	Gardenia yellow	Phẩm màu
+52	170(i)	Calci carbonat	Calcium carbonate	Chất  điều  chỉnh  độ
+				
+				
 				"acid, chất chống đông
 vón, phẩm màu, chất
 làm rắn chắc, chất xử
 lý bột, chất ổn định"
-53.	171	Titan dioxyd	Titanium dioxide	Phẩm màu
-54.	172(i)	Oxyd sắt đen	Iron oxide, black	Phẩm màu
-55.	172(ii)	Oxyd sắt đỏ	Iron oxide, red	Phẩm màu
-56.	172(iii)	Oxyd sắt vàng	Iron oxide, yellow	Phẩm màu
-57.	181	"Acid tannic
+53	171	Titan dioxyd	Titanium dioxide	Phẩm màu
+54	172(i)	Oxyd sắt đen	Iron oxide, black	Phẩm màu
+55	172(ii)	Oxyd sắt đỏ	Iron oxide, red	Phẩm màu
+56	172(iii)	Oxyd sắt vàng	Iron oxide, yellow	Phẩm màu
+57	181	"Acid tannic
 (Tannin)"	"Tannic acid
 (Tannins)"	"Phẩm màu, chất nhũ
 hóa,   chất   ổn   định,
 chất làm dày"
-58.	200	Acid sorbic	Sorbic acid	Chất bảo quản
-59.	201	Natri sorbat	Sodium sorbate	Chất bảo quản
-60.	202	Kali sorbat	Potassium sorbate	Chất bảo quản
-61.	203	Calci sorbat	Calcium sorbate	Chất bảo quản
-62.	210	Acid benzoic	Benzoic acid	Chất bảo quản
-63.	211	Natri benzoat	Sodium benzoate	Chất bảo quản
-64.	212	Kali benzoat	Potassium benzoate	Chất bảo quản
-65.	213	Calci benzoat	Calcium benzoate	Chất bảo quản
-66.	214	"Ethyl para-
+58	200	Acid sorbic	Sorbic acid	Chất bảo quản
+59	201	Natri sorbat	Sodium sorbate	Chất bảo quản
+60	202	Kali sorbat	Potassium sorbate	Chất bảo quản
+61	203	Calci sorbat	Calcium sorbate	Chất bảo quản
+62	210	Acid benzoic	Benzoic acid	Chất bảo quản
+63	211	Natri benzoat	Sodium benzoate	Chất bảo quản
+64	212	Kali benzoat	Potassium benzoate	Chất bảo quản
+65	213	Calci benzoat	Calcium benzoate	Chất bảo quản
+66	214	"Ethyl para-
 hydroxybenzoat"	"Ethyl para-
 hydroxybenzoate"	Chất bảo quản
-67.	218	"Methyl para-
+67	218	"Methyl para-
 hydroxybenzoat"	"Methyl para-
 hydroxybenzoate"	Chất bảo quản
-68.	220	Sulfua dioxyd	Sulfur dioxide	"Chất bảo quản, chất
+68	220	Sulfua dioxyd	Sulfur dioxide	"Chất bảo quản, chất
 chống oxi hóa, chất
 tẩy màu, chất xử lý
 bột"
-69.	221	Natri sulfit	Sodium sulfite	"Chất bảo quản, chất
+69	221	Natri sulfit	Sodium sulfite	"Chất bảo quản, chất
 chống oxi hóa, chất
 xử  lý  bột,  chất  tẩy
 màu"
-70.	222	Natri hydro sulfit	"Sodium hydrogen
+70	222	Natri hydro sulfit	"Sodium hydrogen
 sulfite"	"Chất bảo quản, chất
 chống oxi hóa"
-
-
-71.	223	Natri metabisulfit	"Sodium
+				
+				
+71	223	Natri metabisulfit	"Sodium
 metabisulfite"	"Chất bảo quản, chất
 chống oxi hóa, chất
 tẩy màu, chất xử lý
 bột"
-72.	224	Kali metabisulfit	"Potassium
+72	224	Kali metabisulfit	"Potassium
 metabisulfite"	"Chất bảo quản, chất
 chống oxi hóa, chất
 tẩy màu, chất xử lý
 bột"
-73.	225	Kali sulfit	Potassium sulfite	"Chất bảo quản, chất
+73	225	Kali sulfit	Potassium sulfite	"Chất bảo quản, chất
 chống oxi hóa"
-74.	231	"Ortho-
+74	231	"Ortho-
 phenylphenol"	Ortho-phenylphenol	Chất bảo quản
-75.	232	"Natri ortho-
+75	232	"Natri ortho-
 phenylphenol"	"Sodium ortho-
 phenylphenol"	Chất bảo quản
-76.	234	Nisin	Nisin	Chất bảo quản
-77.	235	Natamycin	Natamycin	Chất bảo quản
-78.	239	"Hexamethylen
+76	234	Nisin	Nisin	Chất bảo quản
+77	235	Natamycin	Natamycin	Chất bảo quản
+78	239	"Hexamethylen
 tetramin"	"Hexamethylene
 tetramine"	Chất bảo quản
-79.	242	"Dimethyl
+79	242	"Dimethyl
 dicarbonat"	"Dimethyl
 dicarbonate"	Chất bảo quản
-80.	243	"Lauric argrinat
+80	243	"Lauric argrinat
 ethyl este"	"Lauric argrinate
 ethyl ester"	Chất bảo quản
-81.	249	Kali nitrit	Postasium nitrite	"Chất  giữ  màu,  chất
+81	249	Kali nitrit	Postasium nitrite	"Chất  giữ  màu,  chất
 bảo quản"
-82.	250	Natri nitrit	Sodium nitrite	"Chất  giữ  màu,  chất
+82	250	Natri nitrit	Sodium nitrite	"Chất  giữ  màu,  chất
 bảo quản"
-83.	251	Natri nitrat	Sodium nitrate	"Chất  giữ  màu,  chất
+83	251	Natri nitrat	Sodium nitrate	"Chất  giữ  màu,  chất
 bảo quản"
-84.	260	Acid acetic băng	Acetic acid, glacial	"Chất  điều  chỉnh  độ
+84	260	Acid acetic băng	Acetic acid, glacial	"Chất  điều  chỉnh  độ
 acid, chất bảo quản"
-85.	261(i)	Kali acetat	Potassium acetate	"Chất  điều  chỉnh  độ
+85	261(i)	Kali acetat	Potassium acetate	"Chất  điều  chỉnh  độ
 acid, chất bảo quản"
-86.	262(i)	Natri acetat	Sodium acetate	Chất  điều  chỉnh  độ
-
-
+86	262(i)	Natri acetat	Sodium acetate	Chất  điều  chỉnh  độ
+				
+				
 				"acid, chất bảo quản,
 chất   tạo   phức   kim
 loại"
-87.	262(ii)	Natri diacetat	Sodium diacetate	"Chất  điều  chỉnh  độ
+87	262(ii)	Natri diacetat	Sodium diacetate	"Chất  điều  chỉnh  độ
 acid, chất bảo quản,
 chất   tạo   phức   kim
 loại"
-88.	263	Calci acetat	Calcium acetate	"Chất  điều  chỉnh  độ
+88	263	Calci acetat	Calcium acetate	"Chất  điều  chỉnh  độ
 acid, chất bảo quản,
 chất ổn định"
-89.	266	"Natri
+89	266	"Natri
 dehydroacetat"	"Sodium
 dehydroacetate"	Chất bảo quản
-90.	270	"Acid lactic (L-, D-
+90	270	"Acid lactic (L-, D-
 và DL-)"	"Lactic acid, L-, D-
 and DL-"	"Chất  điều  chỉnh  độ
 acid"
-91.	280	Acid propionic	Propionic acid	Chất bảo quản
-92.	281	Natri propionat	Sodium propionate	Chất bảo quản
-93.	282	Calci propionat	Calcium propionate	Chất bảo quản
-94.	283	Kali propionat	Potassium propionate	Chất bảo quản
-95.	290	Carbon dioxyd	Carbon dioxide	"Chất tạo khí carbonic,
+91	280	Acid propionic	Propionic acid	Chất bảo quản
+92	281	Natri propionat	Sodium propionate	Chất bảo quản
+93	282	Calci propionat	Calcium propionate	Chất bảo quản
+94	283	Kali propionat	Potassium propionate	Chất bảo quản
+95	290	Carbon dioxyd	Carbon dioxide	"Chất tạo khí carbonic,
 chất tạo bọt, chất khí
 bao   gói,   chất   bảo
 quản, chất khí đẩy"
-96.	296	Acid malic (DL-)	Malic acid, DL-	"Chất  điều  chỉnh  độ
+96	296	Acid malic (DL-)	Malic acid, DL-	"Chất  điều  chỉnh  độ
 acid,  chất  tạo  phức
 kim loại"
-97.	297	Acid fumaric	Fumaric acid	"Chất  điều  chỉnh  độ
+97	297	Acid fumaric	Fumaric acid	"Chất  điều  chỉnh  độ
 acid"
-98.	300	Acid ascorbic (L-)	Ascorbic acid, L-	"Chất chống oxy hóa,
+98	300	Acid ascorbic (L-)	Ascorbic acid, L-	"Chất chống oxy hóa,
 chất  điều  chỉnh  độ
 acid, chất xử lý bột,
 chất   tạo   phức   kim
 loại"
-99.	301	Natri ascorbat	Sodium ascorbate	Chất chống oxy hóa
-
-
-100.	302	Calci ascorbat	Calcium ascorbate	Chất chống oxy hóa
-101.	304	Ascorbyl palmitat	Ascorbyl palmitate	Chất chống oxy hóa
-102.	305	Ascorbyl stearat	Ascorbyl stearate	Chất chống oxy hóa
-103.	307a	d-alpha-Tocopherol	Tocopherol, d-alpha	Chất chống oxy hóa
-104.	307b	"Tocopherol
+99	301	Natri ascorbat	Sodium ascorbate	Chất chống oxy hóa
+				
+				
+100	302	Calci ascorbat	Calcium ascorbate	Chất chống oxy hóa
+101	304	Ascorbyl palmitat	Ascorbyl palmitate	Chất chống oxy hóa
+102	305	Ascorbyl stearat	Ascorbyl stearate	Chất chống oxy hóa
+103	307a	d-alpha-Tocopherol	Tocopherol, d-alpha	Chất chống oxy hóa
+104	307b	"Tocopherol
 concentrat (dạng
 hỗn hợp)"	"Tocopherol
 concentrate, mixed"	Chất chống oxy hóa
-105.	307c	"dl-alpha-
+105	307c	"dl-alpha-
 Tocopherol"	"Tocopherol, dl-
 alpha-"	Chất chống oxy hóa
-106.	310	Propyl gallat	Propyl gallate	Chất chống oxy hóa
-107.	314	Nhựa guaiac	Guaiac resin	Chất chống oxy hóa
-108.	315	"Acid erythorbic
+106	310	Propyl gallat	Propyl gallate	Chất chống oxy hóa
+107	314	Nhựa guaiac	Guaiac resin	Chất chống oxy hóa
+108	315	"Acid erythorbic
 (acid isoascorbic)"	"Erythorbic acid
 (Isoascorbic Acid)"	Chất chống oxy hóa
-109.	316	Natri erythorbat	Sodium erythorbate	Chất chống oxy hóa
-110.	319	"Tert-
+109	316	Natri erythorbat	Sodium erythorbate	Chất chống oxy hóa
+110	319	"Tert-
 butylhydroquinon
 (TBHQ)"	"Tertiary
 butylhydroquinone"	Chất chống oxy hóa
-111.	320	"Butyl
+111	320	"Butyl
 hydroxyanisol
 (BHA)"	"Butylated
 hydroxyanisole"	Chất chống oxy hóa
-112.	321	"Butyl
+112	321	"Butyl
 hydroxytoluen
 (BHT)"	"Butylated
 Hydroxytoluene"	Chất chống oxy hóa
-113.	322(i)	Lecithin	Lecithin	"Chất chống oxy hóa,
+113	322(i)	Lecithin	Lecithin	"Chất chống oxy hóa,
 chất nhũ hóa"
-114.	325	Natri lactat	Sodium lactate	"Chất  điều  chỉnh  độ
+114	325	Natri lactat	Sodium lactate	"Chất  điều  chỉnh  độ
 acid, chất chống oxy
 hóa,  chất  độn,  chất
 nhũ  hóa,  muối  nhũ
 hóa,   chất   làm   ẩm,
 chất làm dày"
-
-
-115.	326	Kali lactat	Potassium lactate	"Chất  điều  chỉnh  độ
+				
+				
+115	326	Kali lactat	Potassium lactate	"Chất  điều  chỉnh  độ
 acid, chất chống oxy
 hóa,  chất  nhũ  hóa,
 chất làm ẩm"
-116.	327	Calci lactat	Calcium lactate	"Chất  điều  chỉnh  độ
+116	327	Calci lactat	Calcium lactate	"Chất  điều  chỉnh  độ
 acid, muối nhũ hóa,
 chất xử lý bột, chất
 làm   rắn   chắc,   chất
 làm dày"
-117.	329	"Magnesi lactat,
+117	329	"Magnesi lactat,
 DL-"	"Magnesium lactate,
 DL-"	"Chất  điều  chỉnh  độ
 acid, chất xử lý bột"
-118.	330	Acid citric	Citric acid	"Chất  điều  chỉnh  độ
+118	330	Acid citric	Citric acid	"Chất  điều  chỉnh  độ
 acid, chất chống oxy
 hóa,  chất  tạo  phức
 kim  loại,  chất  giữ
 màu"
-119.	331(i)	Natri dihydro citrat	"Sodium dihydrogen
+119	331(i)	Natri dihydro citrat	"Sodium dihydrogen
 citrate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
 muối  nhũ  hóa,  chất
 tạo  phức  kim   loại,
 chất ổn định"
-120.	331(ii)	"Dinatri monohydro
+120	331(ii)	"Dinatri monohydro
 citrat"	"Disodium
 monohydrogen
 citrate"	"Chất  điều  chỉnh  độ
@@ -310,47 +309,47 @@ acid,  chất  nhũ  hóa,
 muối  nhũ  hóa,  chất
 tạo  phức  kim   loại,
 chất ổn định"
-121.	331(iii)	Trinatri citrat	Trisodium citrate	"Chất  điều  chỉnh  độ
+121	331(iii)	Trinatri citrat	Trisodium citrate	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
 muối  nhũ  hóa,  chất
 tạo  phức  kim   loại,
 chất ổn định"
-122.	332(i)	Kali dihydro citrat	"Potassium
+122	332(i)	Kali dihydro citrat	"Potassium
 dihydrogen citrate"	"Chất  ổn  định,  chất
 điều  chỉnh  độ  acid,
 muối  nhũ  hóa,  chất
 tạo phức kim loại"
-
-
-123.	332(ii)	Trikali citrat	Tripotassium citrate	"Chất  ổn  định,  chất
+				
+				
+123	332(ii)	Trikali citrat	Tripotassium citrate	"Chất  ổn  định,  chất
 điều  chỉnh  độ  acid,
 muối  nhũ  hóa,  chất
 tạo phức kim loại"
-124.	333(iii)	Tricalci citrat	Tricalcium citrate	"Chất  điều  chỉnh  độ
+124	333(iii)	Tricalci citrat	Tricalcium citrate	"Chất  điều  chỉnh  độ
 acid, muối nhũ hóa,
 chất   làm   rắn   chắc,
 chất   tạo   phức   kim
 loại, chất ổn định"
-125.	334	Acid tartaric, L(+)-	Tartaric acid, L(+)-	"Chất  điều  chỉnh  độ
+125	334	Acid tartaric, L(+)-	Tartaric acid, L(+)-	"Chất  điều  chỉnh  độ
 acid,  chất  tạo  phức
 kim loại, chất chống
 oxi hóa, chất điều vị"
-126.	335(ii)	Dinatri L(+)-tartrat	"Disodium L(+)-
+126	335(ii)	Dinatri L(+)-tartrat	"Disodium L(+)-
 tartrate"	"Chất  điều  chỉnh  độ
 acid, muối nhũ hóa,
 chất   tạo   phức   kim
 loại, chất ổn định"
-127.	337	"Kali natri L(+)-
+127	337	"Kali natri L(+)-
 tartrat"	"Potassium sodium
 L(+)-tartrate"	"Chất  điều  chỉnh  độ
 acid, muối nhũ hóa,
 chất   tạo   phức   kim
 loại, chất ổn định"
-128.	338	Acid phosphoric	Phosphoric acid	"Chất  điều  chỉnh  độ
+128	338	Acid phosphoric	Phosphoric acid	"Chất  điều  chỉnh  độ
 acid, chất chống oxy
 hóa,  chất  tạo  phức
 kim loại"
-129.	339(i)	"Natri dihydro
+129	339(i)	"Natri dihydro
 phosphat"	"Sodium dihydrogen
 phosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
@@ -359,24 +358,24 @@ làm ẩm, chất tạo xốp,
 chất   tạo   phức   kim
 loại,  chất  ổn  định,
 chất làm dày"
-130.	339(ii)	"Dinatri hydro
+130	339(ii)	"Dinatri hydro
 phosphat"	"Disodium hydrogen
 phosphate"	"Chất  ổn  định,  chất
 điều  chỉnh  độ  acid,
 chất  nhũ  hóa,  muối
 nhũ hóa, chất làm ẩm,"
-
-
+				
+				
 				"chất   tạo   phức   kim
 loại, chất làm dày"
-131.	339(iii)	Trinatri phosphat	Trisodium phosphate	"Chất  điều  chỉnh  độ
+131	339(iii)	Trinatri phosphat	Trisodium phosphate	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
 muối  nhũ  hóa,  chất
 làm   ẩm,   chất   bảo
 quản,  chất  ổn  định,
 chất   tạo   phức   kim
 loại, chất làm dày"
-132.	340(i)	"Kali dihydro
+132	340(i)	"Kali dihydro
 phosphat"	"Potassium
 dihydrogen
 phosphate"	"Chất  điều  chỉnh  độ
@@ -385,7 +384,7 @@ muối  nhũ  hóa,  chất
 làm ẩm, chất ổn định,
 chất   tạo   phức   kim
 loại, chất làm dày"
-133.	340(ii)	"Dikali hydro
+133	340(ii)	"Dikali hydro
 phosphat"	"Dipotassium
 hydrogen phosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
@@ -393,7 +392,7 @@ muối  nhũ  hóa,  chất
 làm ẩm, chất ổn định,
 chất   tạo   phức   kim
 loại, chất làm dày"
-134.	340(iii)	"Trikali hydro
+134	340(iii)	"Trikali hydro
 phosphat"	"Tripotassium
 hydrogen phosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
@@ -401,7 +400,7 @@ muối  nhũ  hóa,  chất
 làm ẩm, chất ổn định,
 chất   tạo   phức   kim
 loại, chất làm dày"
-135.	341(i)	"Calci dihydro
+135	341(i)	"Calci dihydro
 phosphat"	"Calcium dihydrogen
 phosphate"	"Chất  điều  chỉnh  độ
 acid, chất chống đông
@@ -412,9 +411,9 @@ làm ẩm, chất tạo xốp,
 chất   tạo   phức   kim
 loại,  chất  ổn  định,
 chất làm dày"
-
-
-136.	341(ii)	"Dicalci hydro
+				
+				
+136	341(ii)	"Dicalci hydro
 phosphat"	"Dicalcium hydrogen
 phosphate"	"Chất  điều  chỉnh  độ
 acid, chất chống đông
@@ -424,7 +423,7 @@ chất xử lý bột, chất
 làm ẩm, chất tạo xốp,
 chất ổn định, chất làm
 dày"
-137.	341(iii)	Tricalci phosphat	Tricalcium phosphate	"Chất  điều  chỉnh  độ
+137	341(iii)	Tricalci phosphat	Tricalcium phosphate	"Chất  điều  chỉnh  độ
 acid, chất chống đông
 vón,  chất  nhũ  hóa,
 muối  nhũ  hóa,  chất
@@ -432,20 +431,20 @@ làm rắn chắc, chất xử
 lý bột, chất làm ẩm,
 chất tạo xốp, chất ổn
 định, chất làm dày"
-138.	342(i)	"Amoni dihydro
+138	342(i)	"Amoni dihydro
 phosphat"	"Ammonium
 dihydrogen
 phosphate"	"Chất  điều  chỉnh  độ
 acid, chất xử lý bột,
 chất ổn định, chất làm
 dày, chất tạo xốp"
-139.	342(ii)	"Diamoni hydro
+139	342(ii)	"Diamoni hydro
 phosphat"	"Diammonium
 hydrogen phosphate"	"Chất  điều  chỉnh  độ
 acid, chất xử lý bột,
 chất tạo xốp, chất ổn
 định, chất làm dày"
-140.	343(i)	"Magnesi dihydro
+140	343(i)	"Magnesi dihydro
 phosphat"	"Magnesium
 dihydrogen
 phosphate"	"Chất  điều  chỉnh  độ
@@ -453,53 +452,53 @@ acid, chất chống đông
 vón,  muối  nhũ  hóa,
 chất ổn định, chất làm
 dày"
-141.	343(ii)	"Magnesi hydro
+141	343(ii)	"Magnesi hydro
 phosphat"	"Magnesium
 hydrogen phosphate"	"Chất  điều  chỉnh  độ
 acid, chất chống đông
 vón,  muối  nhũ  hóa,
 chất tạo xốp, chất ổn
 định, chất làm dày"
-142.	343(iii)	"Trimagnesi
+142	343(iii)	"Trimagnesi
 phosphat"	"Trimagnesium
 phosphate"	"Chất  điều  chỉnh  độ
 acid, chất chống đông"
-
-
+				
+				
 				"vón,   chất   ổn   định,
 chất làm dày"
-143.	350(i)	"Natri hyro DL-
+143	350(i)	"Natri hyro DL-
 malat"	"Sodium hyrogen
 DL-malate"	"Chất  điều  chỉnh  độ
 acid, chất làm ẩm"
-144.	350(ii)	Natri DL-malat	Sodium DL-malate	"Chất  điều  chỉnh  độ
+144	350(ii)	Natri DL-malat	Sodium DL-malate	"Chất  điều  chỉnh  độ
 acid, chất làm ẩm"
-145.	352(ii)	Calci malat, DL-	"Calcium malate,
+145	352(ii)	Calci malat, DL-	"Calcium malate,
 DL-"	"Chất  điều  chỉnh  độ
 acid"
-146.	353	Acid metatartaric	Metatartaric acid	"Chất  điều  chỉnh  độ
+146	353	Acid metatartaric	Metatartaric acid	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
 chất ổn định, chất làm
 dày"
-147.	355	Acid adipic	Adipic acid	"Chất  điều  chỉnh  độ
+147	355	Acid adipic	Adipic acid	"Chất  điều  chỉnh  độ
 acid"
-148.	363	Acid succinic	Succinic acid	"Chất  điều  chỉnh  độ
+148	363	Acid succinic	Succinic acid	"Chất  điều  chỉnh  độ
 acid"
-149.	364(ii)	Dinatri succinat	Disodium succinate	"Chất  điều  chỉnh  độ
+149	364(ii)	Dinatri succinat	Disodium succinate	"Chất  điều  chỉnh  độ
 acid, chất điều vị"
-150.	365	"Natri fumarat (các
+150	365	"Natri fumarat (các
 muối)"	Sodium fumarates	"Chất  điều  chỉnh  độ
 acid"
-151.	380	Triamoni citrat	"Triammonium
+151	380	Triamoni citrat	"Triammonium
 citrate"	"Chất  điều  chỉnh  độ
 acid"
-152.	381	Sắt amoni citrat	"Ferric ammonium
+152	381	Sắt amoni citrat	"Ferric ammonium
 citrate"	Chất chống đông vón
-153.	384	"Isopropyl citrate
+153	384	"Isopropyl citrate
 (các muối)"	Isopropyl citrates	"Chất  tạo  phức  kim
 loại, chất chống oxi
 hóa, chất bảo quản"
-154.	385	"Calci dinatri
+154	385	"Calci dinatri
 etylendiamintetraa
 cetat"	"Calcium disodium
 ethylenediaminetetr
@@ -507,79 +506,79 @@ aacetate"	"Chất  tạo  phức  kim
 loại, chất chống oxi
 hóa,  chất  giữ  màu,
 chất bảo quản"
-155.	386	"Dinatri
+155	386	"Dinatri
 ethylendiamintetra
 acetat (EDTA)"	"Disodium
 ethylenediaminetetr
 aacetate"	"Chất  tạo  phức  kim
 loại, chất chống oxi
 hóa,  chất  giữ  màu,"
-
-
+				
+				
 				"chất  bảo  quản,  chất
 ổn định"
-156.	388	"Acid
+156	388	"Acid
 thiodipropionic"	"Thiodipropionic
 acid"	Chất chống oxy hóa
-157.	389	"Dilauryl
+157	389	"Dilauryl
 thiodipropionat"	"Dilauryl
 thiodipropionate"	Chất chống oxy hóa
-158.	392	"Chiết xuất hương
+158	392	"Chiết xuất hương
 thảo"	Rosemary extract	Chất chống oxy hóa
-159.	400	Acid alginic	Alginic acid	"Chất  làm  dày,  chất
+159	400	Acid alginic	Alginic acid	"Chất  làm  dày,  chất
 độn, chất mang, chất
 nhũ hóa, chất tạo bọt,
 chất tạo gel, chất làm
 bóng,  chất  làm  ẩm,
 chất   tạo   phức   kim
 loại, chất ổn định"
-160.	401	Natri alginat	Sodium alginate	"Chất độn, chất mang,
+160	401	Natri alginat	Sodium alginate	"Chất độn, chất mang,
 chất nhũ hóa, chất tạo
 bọt, chất tạo gel, chất
 làm  bóng,  chất  làm
 ẩm,   chất   tạo   phức
 kim   loại,   chất   ổn
 định, chất làm dày"
-161.	402	Kali alginat	Potassium alginate	"Chất độn, chất mang,
+161	402	Kali alginat	Potassium alginate	"Chất độn, chất mang,
 chất nhũ hóa, chất tạo
 bọt, chất tạo gel, chất
 làm  bóng,  chất  làm
 ẩm,   chất   tạo   phức
 kim   loại,   chất   ổn
 định, chất làm dày"
-162.	403	Amoni alginat	Ammonium alginate	"Chất độn, chất mang,
+162	403	Amoni alginat	Ammonium alginate	"Chất độn, chất mang,
 chất nhũ hóa, chất tạo
 bọt, chất tạo gel, chất
 làm  bóng,  chất  làm
 ẩm,   chất   tạo   phức
 kim   loại,   chất   ổn
 định, chất làm dày"
-
-
-163.	404	Calci alginat	Calcium alginate	"Chất  làm  dày,  chất
+				
+				
+163	404	Calci alginat	Calcium alginate	"Chất  làm  dày,  chất
 chống  tạo  bọt,  chất
 độn, chất mang, chất
 tạo   gel,   chất   làm
 bóng,  chất  làm  ẩm,
 chất   tạo   phức   kim
 loại, chất ổn định"
-164.	405	"Propylen glycol
+164	405	"Propylen glycol
 alginat"	"Propylene glycol
 alginate"	"Chất độn, chất mang,
 chất nhũ hóa, chất tạo
 bọt, chất tạo gel, chất
 làm dày, chất ổn định"
-165.	406	Thạch Aga	Agar	"Chất  làm  dày,  chất
+165	406	Thạch Aga	Agar	"Chất  làm  dày,  chất
 độn, chất mang, chất
 nhũ hóa, chất tạo gel,
 chất làm bóng, chất
 làm ẩm, chất ổn định"
-166.	407	Carrageenan	Carrageenan	"Chất  làm  dày,  chất
+166	407	Carrageenan	Carrageenan	"Chất  làm  dày,  chất
 độn, chất mang, chất
 nhũ hóa, chất tạo gel,
 chất làm bóng, chất
 làm ẩm, chất ổn định"
-167.	407a	"Rong biển
+167	407a	"Rong biển
 eucheuma đã qua
 chế biến"	"Processed eucheuma
 seaweed (PES)"	"Chất độn, chất mang,
@@ -587,117 +586,117 @@ chất nhũ hóa, chất tạo
 gel,  chất  làm  bóng,
 chất làm ẩm, chất ổn
 định, chất làm dày"
-168.	410	Gôm đậu carob	Carob bean gum	"Chất  làm  dày,  chất
+168	410	Gôm đậu carob	Carob bean gum	"Chất  làm  dày,  chất
 nhũ hóa, chất ổn định"
-169.	412	Gôm gua	Guar gum	"Chất  làm  dày,  chất
+169	412	Gôm gua	Guar gum	"Chất  làm  dày,  chất
 nhũ hóa, chất ổn định"
-170.	413	Gôm tragacanth	Tragacanth gum	"Chất  làm  dày,  chất
+170	413	Gôm tragacanth	Tragacanth gum	"Chất  làm  dày,  chất
 nhũ hóa, chất ổn định"
-171.	414	Gôm arabic	"Gum arabic (Acacia
+171	414	Gôm arabic	"Gum arabic (Acacia
 gum)"	"Chất  làm  dày,  chất
 độn,  chất  nhũ  hóa,
 chất mang, chất làm
 bóng, chất ổn định"
-
-
-172.	415	Gôm xanthan	Xanthan gum	"Chất  làm  dày,  chất
+				
+				
+172	415	Gôm xanthan	Xanthan gum	"Chất  làm  dày,  chất
 nhũ hóa, chất tạo bọt,
 chất ổn định"
-173.	416	Gôm karaya	Karaya gum	"Chất  làm  dày,  chất
+173	416	Gôm karaya	Karaya gum	"Chất  làm  dày,  chất
 nhũ hóa, chất ổn định"
-174.	417	Gôm tara	Tara gum	"Chất  làm  dày,  chất
+174	417	Gôm tara	Tara gum	"Chất  làm  dày,  chất
 tạo gel, chất ổn định"
-175.	418	Gôm gellan	Gellan gum	"Chất  làm  dày,  chất
+175	418	Gôm gellan	Gellan gum	"Chất  làm  dày,  chất
 tạo gel, chất ổn định"
-176.	420(i)	Sorbitol	Sorbitol	"Chất  tạo  ngọt,  chất
+176	420(i)	Sorbitol	Sorbitol	"Chất  tạo  ngọt,  chất
 độn,   chất   làm   ẩm,
 chất   tạo   phức   kim
 loại,  chất  ổn  định,
 chất làm dày"
-177.	420(ii)	Siro sorbitol	Sorbitol syrup	"Chất  tạo  ngọt,  chất
+177	420(ii)	Siro sorbitol	Sorbitol syrup	"Chất  tạo  ngọt,  chất
 độn,   chất   làm   ẩm,
 chất   tạo   phức   kim
 loại,  chất  ổn  định,
 chất làm dày"
-178.	421	Manitol	Mannitol	"Chất chống đông vón,
+178	421	Manitol	Mannitol	"Chất chống đông vón,
 chất  độn,  chất  làm
 ẩm, chất ổn định, chất
 tạo ngọt, chất làm dày"
-179.	422	Glycerol	Glycerol	"Chất  làm  dày,  chất
+179	422	Glycerol	Glycerol	"Chất  làm  dày,  chất
 làm ẩm"
-180.	423	"Gôm arabic biến
+180	423	"Gôm arabic biến
 tính bằng acid
 octenyl succinic
 (OSA)"	"Octenyl succinic
 acid (OSA)
 modified gum arabic"	Chất nhũ hóa
-181.	424	Curdlan	Curdlan	"Chất  làm  rắn  chắc,
+181	424	Curdlan	Curdlan	"Chất  làm  rắn  chắc,
 chất tạo gel, chất ổn
 định, chất làm dày"
-
-
-182.	425	Bột konjac	Konjac flour	"Chất mang, chất nhũ
+				
+				
+182	425	Bột konjac	Konjac flour	"Chất mang, chất nhũ
 hóa, chất tạo gel, chất
 làm  bóng,  chất  làm
 ẩm, chất ổn định, chất
 làm dày"
-183.	427	Gôm cassia	Cassia gum	"Chất  nhũ  hóa,  chất
+183	427	Gôm cassia	Cassia gum	"Chất  nhũ  hóa,  chất
 tạo gel, chất ổn định,
 chất làm dày"
-184.	430	"Polyoxyethylen (8)
+184	430	"Polyoxyethylen (8)
 stearat"	"Polyoxyethylene (8)
 stearate"	Chất nhũ hóa
-185.	431	"Polyoxyethylen
+185	431	"Polyoxyethylen
 (40) stearat"	"Polyoxyethylene
 (40) stearate"	Chất nhũ hóa
-186.	432	"Polyoxyethylen
+186	432	"Polyoxyethylen
 (20) sorbitan
 monolaurat"	"Polyoxyethylene
 (20) sorbitan
 monolaurate"	"Chất nhũ hóa, chất ổn
 định"
-187.	433	"Polyoxyethylen
+187	433	"Polyoxyethylen
 (20) sorbitan
 monooleat"	"Polyoxyethylene
 (20) sorbitan
 monooleate"	"Chất nhũ hóa, chất ổn
 định"
-188.	434	"Polyoxyethylen
+188	434	"Polyoxyethylen
 (20) sorbitan
 monopalmitat"	"Polyoxyethylene
 (20) sorbitan
 monopalmitate"	Chất nhũ hóa
-189.	435	"Polyoxyethylen
+189	435	"Polyoxyethylen
 (20) sorbitan
 monostearat"	"Polyoxyethylene
 (20) sorbitan
 monostearate"	"Chất nhũ hóa, chất ổn
 định"
-190.	436	"Polyoxyethylen
+190	436	"Polyoxyethylen
 (20) sorbitan
 tristearat"	"Polyoxyethylene
 (20) sorbitan
 tristearate"	"Chất nhũ hóa, chất ổn
 định"
-191.	440	Pectin	Pectins	"Chất  nhũ  hóa,  chất
+191	440	Pectin	Pectins	"Chất  nhũ  hóa,  chất
 tạo   gel,   chất   làm
 bóng,  chất  ổn  định,
 chất làm dày"
-192.	442	"Các muối amoni
+192	442	"Các muối amoni
 của acid
 phosphatidic"	"Ammonium salts of
 phosphatidic acid"	Chất nhũ hóa
-
-
-193.	444	"Sucrose acetat
+				
+				
+193	444	"Sucrose acetat
 isobutyrat"	"Sucrose acetate
 isobutyrate"	"Chất nhũ hóa, chất ổn
 định"
-194.	445(iii)	"Glycerol ester của
+194	445(iii)	"Glycerol ester của
 nhựa cây"	"Glycerol ester of
 wood rosin"	"Chất nhũ hóa, chất ổn
 định"
-195.	450(i)	Dinatri diphosphat	"Disodium
+195	450(i)	Dinatri diphosphat	"Disodium
 diphosphate"	"Chất  nhũ  hóa,  chất
 điều  chỉnh  độ  acid,
 muối  nhũ  hóa,  chất
@@ -705,7 +704,7 @@ làm ẩm, chất tạo xốp,
 chất   tạo   phức   kim
 loại,  chất  ổn  định,
 chất làm dày"
-196.	450(ii)	Trinatri diphosphat	"Trisodium
+196	450(ii)	Trinatri diphosphat	"Trisodium
 diphosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
 muối  nhũ  hóa,  chất
@@ -713,7 +712,7 @@ tạo xốp, chất làm ẩm,
 chất   tạo   phức   kim
 loại,  chất  ổn  định,
 chất làm dày"
-197.	450(iii)	"Tetranatri
+197	450(iii)	"Tetranatri
 diphosphat"	"Tetrasodium
 diphosphate"	"Chất  tạo  phức  kim
 loại, chất điều chỉnh
@@ -722,7 +721,7 @@ muối  nhũ  hóa,  chất
 ổn định, chất làm ẩm,
 chất tạo xốp, chất làm
 dày"
-198.	450(v)	"Tetrakali
+198	450(v)	"Tetrakali
 diphosphat"	"Tetrapotassium
 diphosphate"	"Chất  tạo  phức  kim
 loại, chất điều chỉnh
@@ -731,17 +730,17 @@ muối  nhũ  hóa,  chất
 ổn định, chất làm ẩm,
 chất tạo xốp, chất làm
 dày"
-199.	450(vi)	Dicalci diphosphat	"Dicalcium
+199	450(vi)	Dicalci diphosphat	"Dicalcium
 diphosphate"	"Chất  tạo  phức  kim
 loại, chất điều chỉnh
 độ acid, chất nhũ hóa,
 muối  nhũ  hóa,  chất"
-
-
+				
+				
 				"làm rắn chắc, chất tạo
 xốp,   chất   ổn   định,
 chất làm dày"
-200.	450(vii)	"Calci dihydro
+200	450(vii)	"Calci dihydro
 diphosphat"	"Calcium dihydrogen
 diphosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
@@ -749,13 +748,13 @@ muối  nhũ  hóa,  chất
 làm ẩm, chất tạo xốp,
 chất   tạo   phức   kim
 loại, chất ổn định"
-201.	450(ix)	"Magnesi dihydro
+201	450(ix)	"Magnesi dihydro
 diphosphat"	"Magnesium
 dihydrogen
 diphosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  tạo  xốp,
 chất ổn định"
-202.	451(i)	"Pentanatri
+202	451(i)	"Pentanatri
 triphosphat"	"Pentasodium
 triphosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
@@ -763,7 +762,7 @@ muối  nhũ  hóa,  chất
 làm ẩm, chất tạo phức
 kim   loại,   chất   ổn
 định, chất làm dày"
-203.	451(ii)	"Pentakali
+203	451(ii)	"Pentakali
 triphosphat"	"Pentapotassium
 triphosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
@@ -771,7 +770,7 @@ muối  nhũ  hóa,  chất
 làm ẩm, chất tạo phức
 kim   loại,   chất   ổn
 định, chất làm dày"
-204.	452(i)	Natri polyphosphat	"Sodium
+204	452(i)	Natri polyphosphat	"Sodium
 polyphosphate"	"Chất  tạo  phức  kim
 loại, chất điều chỉnh
 độ acid, chất nhũ hóa,
@@ -779,17 +778,17 @@ muối  nhũ  hóa,  chất
 làm ẩm, chất tạo xốp,
 chất ổn định, chất làm
 dày"
-205.	452(ii)	Kali polyphosphat	"Potassium
+205	452(ii)	Kali polyphosphat	"Potassium
 polyphosphate"	"Chất  tạo  phức  kim
 loại, chất điều chỉnh
 độ acid, chất nhũ hóa,
 muối  nhũ  hóa,  chất
 làm ẩm, chất tạo xốp,"
-
-
+				
+				
 				"chất ổn định, chất làm
 dày"
-206.	452(iii)	"Natri calci
+206	452(iii)	"Natri calci
 polyphosphat"	"Sodium calcium
 polyphosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  tạo  phức
@@ -797,7 +796,7 @@ kim  loại,  chất  nhũ
 hóa,   chất   làm   ẩm,
 chất tạo xốp, chất ổn
 định"
-207.	452(iv)	Calci polyphosphat	"Calcium
+207	452(iv)	Calci polyphosphat	"Calcium
 polyphosphate"	"Chất  tạo  phức  kim
 loại, chất điều chỉnh
 độ acid, chất nhũ hóa,
@@ -805,7 +804,7 @@ muối  nhũ  hóa,  chất
 làm ẩm, chất tạo xốp,
 chất ổn định, chất làm
 dày"
-208.	452(v)	"Amoni
+208	452(v)	"Amoni
 polyphosphat"	"Ammonium
 polyphosphate"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
@@ -813,18 +812,18 @@ muối  nhũ  hóa,  chất
 tạo  phức  kim   loại,
 chất làm ẩm, chất ổn
 định, chất làm dày"
-209.	455	"Mannoprotein của
+209	455	"Mannoprotein của
 nấm men"	"Yeast
 mannoproteins"	Chất ổn định
-210.	457	alpha-Cyclodextrin	Cyclodextrin, alpha-	"Chất làm dày, chất ổn
+210	457	alpha-Cyclodextrin	Cyclodextrin, alpha-	"Chất làm dày, chất ổn
 định"
-211.	458	"gamma-
+211	458	"gamma-
 Cyclodextrin"	"Cyclodextrin,
 gamma-"	"Chất làm dày, chất ổn
 định"
-212.	459	beta-Cyclodextrin	Cyclodextrin, beta-	"Chất  mang,  chất  ổn
+212	459	beta-Cyclodextrin	Cyclodextrin, beta-	"Chất  mang,  chất  ổn
 định, chất làm dày"
-213.	460(i)	"Cellulose vi tinh
+213	460(i)	"Cellulose vi tinh
 thể"	"Microcrystalline
 cellulose"	"Chất độn, chất chống
 đông vón, chất mang,
@@ -832,39 +831,39 @@ chất làm bóng, chất
 nhũ hóa, chất tạo bọt,
 chất ổn định, chất làm
 dày"
-
-
-214.	460(ii)	Bột cellulose	Powdered cellulose	"Chất độn, chất chống
+				
+				
+214	460(ii)	Bột cellulose	Powdered cellulose	"Chất độn, chất chống
 đông  vón,  chất  nhũ
 hóa, chất làm bóng,
 chất làm ẩm, chất ổn
 định, chất làm dày"
-215.	461	Methyl cellulose	Methyl cellulose	"Chất  độn,  chất  làm
+215	461	Methyl cellulose	Methyl cellulose	"Chất  độn,  chất  làm
 bóng, chất nhũ hóa,
 chất ổn định, chất làm
 dày"
-216.	462	Ethyl cellulose	Ethyl cellulose	"Chất  kết  dính,  chất
+216	462	Ethyl cellulose	Ethyl cellulose	"Chất  kết  dính,  chất
 làm  dày,  chất  độn,
 chất mang, chất làm
 bóng"
-217.	463	"Hydroxypropyl
+217	463	"Hydroxypropyl
 cellulose"	"Hydroxypropyl
 cellulose"	"Chất làm dày, chất ổn
 định,  chất  nhũ  hóa,
 chất tạo bọt, chất làm
 bóng"
-218.	464	"Hydroxypropyl
+218	464	"Hydroxypropyl
 methyl cellulose"	"Hydroxypropyl
 methyl cellulose"	"Chất  nhũ  hóa,  chất
 làm   bóng,   chất   ổn
 định,  chất  làm  dày,
 chất độn"
-219.	465	"Methyl ethyl
+219	465	"Methyl ethyl
 cellulose"	"Methyl ethyl
 cellulose"	"Chất  nhũ  hóa,  chất
 tạo bọt, chất ổn định,
 chất làm dày"
-220.	466	"Natri
+220	466	"Natri
 carboxymethyl
 cellulose"	"Sodium
 carboxymethyl
@@ -874,19 +873,19 @@ chất làm bóng, chất
 ổn định, chất làm ẩm,
 chất   làm   rắn   chắc,
 chất tạo gel"
-221.	467	"Ethyl hydroxyethyl
+221	467	"Ethyl hydroxyethyl
 cellulose"	"Ethyl hydroxyethyl
 cellulose"	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-222.	468	"Cross-linked natri
+222	468	"Cross-linked natri
 carboxymethyl
 cellulose"	"Cross-linked sodium
 carboxymethyl
 cellulose"	"Chất  ổn  định,  chất
 làm dày"
-
-
-223.	469	"Natri
+				
+				
+223	469	"Natri
 carboxymethyl
 cellulose, thủy
 phân bằng enzym"	"Sodium
@@ -895,7 +894,7 @@ cellulose,
 enzymatically
 hydrolysed"	"Chất  ổn  định,  chất
 làm dày"
-224.	470(i)	"Muối của acid
+224	470(i)	"Muối của acid
 myristic, palmitic
 và stearic (NH4,
 Ca, K và Na)"	"Salts of myristic,
@@ -905,17 +904,17 @@ calcium, potassium
 and sodium"	"Chất chống đông vón,
 chất nhũ hóa, chất ổn
 định"
-225.	470(ii)	"Muối của acid
+225	470(ii)	"Muối của acid
 oleic (Ca, Na và K)"	"Salts of oleic acid
 with calcium,
 potassium and
 sodium"	"Chất chống đông vón,
 chất nhũ hóa, chất ổn
 định"
-226.	470(iii)	Magnesi sterat	Magnesium stearate	"Chất chống đông vón,
+226	470(iii)	Magnesi sterat	Magnesium stearate	"Chất chống đông vón,
 chất   nhũ   hóa,   chất
 làm dày"
-227.	471	"Mono và
+227	471	"Mono và
 diglycerid của các
 acid béo"	"Mono- and Di-
 glycerides of fatty
@@ -923,19 +922,19 @@ acids"	"Chất  nhũ  hóa,  chất
 chống  tạo  bọt,  chất
 làm   bóng,   chất   ổn
 định"
-228.	472a	"Este của glycerol
+228	472a	"Este của glycerol
 với acid acetic và
 acid béo"	"Acetic and fatty acid
 esters of glycerol"	"Chất  nhũ  hóa,  chất
 tạo  phức  kim   loại,
 chất ổn định"
-229.	472b	"Este của glycerol
+229	472b	"Este của glycerol
 với acid lactic và
 acid béo"	"Lactic and fatty acid
 esters of glycerol"	"Chất  nhũ  hóa,  chất
 tạo  phức  kim   loại,
 chất ổn định"
-230.	472c	"Este của glycerol
+230	472c	"Este của glycerol
 với acid citric và
 acid béo"	"Citric and fatty acid
 esters of glycerol"	"Chất  nhũ  hóa,  chất
@@ -943,40 +942,40 @@ chống oxy hóa, chất
 xử  lý  bột,  chất  tạo
 phức  kim  loại,  chất
 ổn định"
-231.	472e	"Este của glycerol
+231	472e	"Este của glycerol
 với acid diacetyl
 tartaric và acid béo"	"Diacetyltartaric and
 fatty acid esters of
 glycerol"	"Chất  nhũ  hóa,  chất
 tạo  phức  kim   loại,
 chất ổn định"
-
-
-232.	473	"Este của sucrose
+				
+				
+232	473	"Este của sucrose
 với các acid béo"	"Sucrose esters of
 fatty acids"	"Chất  nhũ  hóa,  chất
 tạo   bọt,   chất   làm
 bóng, chất ổn định"
-233.	473a	"Oligoeste typ 1 và
+233	473a	"Oligoeste typ 1 và
 typ 2 của sucrose"	"Sucrose oligoesters
 type I and type II"	"Chất  nhũ  hóa,  chất
 làm   bóng,   chất   ổn
 định"
-234.	474	Sucroglycerid	Sucroglycerides	Chất nhũ hóa
-235.	475	"Este của
+234	474	Sucroglycerid	Sucroglycerides	Chất nhũ hóa
+235	475	"Este của
 polyglycerol với
 các acid béo"	"Polyglycerol esters
 of fatty acids"	"Chất nhũ hóa, chất ổn
 định"
-236.	476	"Este của
+236	476	"Este của
 polyglycerol với
 acid ricinoleic"	"Polyglycerol esters
 of interesterified
 ricinoleic acid"	Chất nhũ hóa
-237.	477	"Este của propylen
+237	477	"Este của propylen
 glycol với acid béo"	"Propylene glycol
 esters of fatty acids"	Chất nhũ hóa
-238.	479	"Dầu đậu nành oxy
+238	479	"Dầu đậu nành oxy
 hóa nhiệt tương tác
 với mono  và
 diglycerid của các
@@ -986,150 +985,150 @@ interacted with
 mono- and
 diglycerides of fatty
 acids"	Chất nhũ hóa
-239.	480	"Dioctyl natri
+239	480	"Dioctyl natri
 sulfosuccinat"	"Dioctyl sodium
 sulfosuccinate"	"Chất  nhũ  hóa,  chất
 làm ẩm"
-240.	481(i)	"Natri stearoyl
+240	481(i)	"Natri stearoyl
 lactylat"	"Sodium stearoyl
 lactylate"	"Chất nhũ hóa, chất xử
 lý bột, chất tạo bọt,
 chất ổn định"
-241.	482(i)	"Calci stearoyl
+241	482(i)	"Calci stearoyl
 lactylat"	"Calcium stearoyl
 lactylate"	"Chất nhũ hóa, chất xử
 lý bột, chất tạo bọt,
 chất ổn định"
-242.	484	Stearyl citrat	Stearyl citrate	"Chất  nhũ  hóa,  chất
+242	484	Stearyl citrat	Stearyl citrate	"Chất  nhũ  hóa,  chất
 chống oxi hóa, chất
 tạo phức kim loại"
-
-
-243.	491	"Sorbitan
+				
+				
+243	491	"Sorbitan
 monostearat"	"Sorbitan
 monostearate"	"Chất nhũ hóa, chất ổn
 định"
-244.	492	Sorbitan tristearat	Sorbitan tristearate	"Chất nhũ hóa, chất ổn
+244	492	Sorbitan tristearat	Sorbitan tristearate	"Chất nhũ hóa, chất ổn
 định"
-245.	493	"Sorbitan
+245	493	"Sorbitan
 monolaurat"	Sorbitan monolaurate	"Chất nhũ hóa, chất ổn
 định"
-246.	494	"Sorbitan
+246	494	"Sorbitan
 monooleat"	Sorbitan monooleate	"Chất nhũ hóa, chất ổn
 định"
-247.	495	"Sorbitan
+247	495	"Sorbitan
 monopalmitat"	"Sorbitan
 monopalmitate"	Chất nhũ hóa
-248.	500(i)	Natri carbonat	Sodium carbonate	"Chất   tạo  xốp,   chất
+248	500(i)	Natri carbonat	Sodium carbonate	"Chất   tạo  xốp,   chất
 điều  chỉnh  độ  acid,
 chất chống đông vón,
 muối  nhũ  hóa,  chất
 ổn định, chất làm dày"
-249.	500(ii)	"Natri hydro
+249	500(ii)	"Natri hydro
 carbonat"	"Sodium hydrogen
 carbonate"	"Chất  ổn  định,  chất
 điều  chỉnh  độ  acid,
 chất chống đông vón,
 chất tạo xốp, chất làm
 dày"
-250.	500(iii)	"Natri
+250	500(iii)	"Natri
 sesquicarbonat"	"Sodium
 sesquicarbonate"	"Chất  điều  chỉnh  độ
 acid, chất chống đông
 vón, chất tạo xốp"
-251.	501(i)	Kali carbonat	Potassium carbonate	"Chất  ổn  định,  chất
+251	501(i)	Kali carbonat	Potassium carbonate	"Chất  ổn  định,  chất
 điều chỉnh độ acid"
-252.	501(ii)	"Kali hydro
+252	501(ii)	"Kali hydro
 carbonat"	"Potassium hydrogen
 carbonate"	"Chất  điều  chỉnh  độ
 acid,  chất  tạo  xốp,
 chất ổn định"
-253.	503(i)	Amoni carbonat	"Ammonium
+253	503(i)	Amoni carbonat	"Ammonium
 carbonate"	"Chất   tạo  xốp,   chất
 điều chỉnh độ acid"
-254.	503(ii)	"Amoni hydro
+254	503(ii)	"Amoni hydro
 carbonat"	"Ammonium
 hydrogen carbonate"	"Chất  điều  chỉnh  độ
 acid, chất tạo xốp"
-255.	504(i)	Magnesi carbonat	"Magnesium
+255	504(i)	Magnesi carbonat	"Magnesium
 carbonate"	"Chất  điều  chỉnh  độ
 acid, chất chống đông
 vón, chất giữ màu"
-
-
-256.	504(ii)	"Magnesi hydroxyd
+				
+				
+256	504(ii)	"Magnesi hydroxyd
 carbonat"	"Magnesium
 hydroxide carbonate"	"Chất  điều  chỉnh  độ
 acid, chất chống đông
 vón, chất mang, chất
 giữ màu"
-257.	507	Acid hydrocloric	Hydrochloric acid	"Chất  điều  chỉnh  độ
+257	507	Acid hydrocloric	Hydrochloric acid	"Chất  điều  chỉnh  độ
 acid"
-258.	508	Kali clorid	Potassium chloride	"Chất  ổn  định,  chất
+258	508	Kali clorid	Potassium chloride	"Chất  ổn  định,  chất
 điều vị, chất làm rắn
 chắc, chất làm dày"
-259.	509	Calci clorid	Calcium chloride	"Chất  làm  rắn  chắc,
+259	509	Calci clorid	Calcium chloride	"Chất  làm  rắn  chắc,
 chất ổn định, chất làm
 dày"
-260.	510	Amoni clorid	Ammonium chloride	Chất xử lý bột
-261.	511	Magnesi clorid	Magnesium chloride	"Chất giữ màu, chất ổn
+260	510	Amoni clorid	Ammonium chloride	Chất xử lý bột
+261	511	Magnesi clorid	Magnesium chloride	"Chất giữ màu, chất ổn
 định,   chất   làm   rắn
 chắc"
-262.	512	Thiếc clorid	Stannous chloride	"Chất chống oxy hóa,
+262	512	Thiếc clorid	Stannous chloride	"Chất chống oxy hóa,
 chất giữ màu"
-263.	514(i)	Natri sulfat	Sodium sulfate	"Chất  điều  chỉnh  độ
+263	514(i)	Natri sulfat	Sodium sulfate	"Chất  điều  chỉnh  độ
 acid"
-264.	514(ii)	Natri hydro sulfat	"Sodium hydrogen
+264	514(ii)	Natri hydro sulfat	"Sodium hydrogen
 sulfate"	"Chất  điều  chỉnh  độ
 acid"
-265.	515(i)	Kali sulfat	Potassium sulfate	"Chất  điều  chỉnh  độ
+265	515(i)	Kali sulfat	Potassium sulfate	"Chất  điều  chỉnh  độ
 acid"
-266.	515(ii)	Kali hydro sulfat	"Potassium hydrogen
+266	515(ii)	Kali hydro sulfat	"Potassium hydrogen
 sulfate"	"Chất  điều  chỉnh  độ
 acid"
-267.	516	Calci sulfat	Calcium sulfate	"Chất  làm  rắn  chắc,
+267	516	Calci sulfat	Calcium sulfate	"Chất  làm  rắn  chắc,
 chất  điều  chỉnh  độ
 acid, chất xử lý bột,
 chất   tạo   phức   kim
 loại, chất ổn định"
-268.	518	Magnesi sulfat	Magnesium sulfate	"Chất  làm  rắn  chắc,
+268	518	Magnesi sulfat	Magnesium sulfate	"Chất  làm  rắn  chắc,
 chất điều vị"
-
-
-269.	523	Nhôm amoni sulfat	"Aluminium
+				
+				
+269	523	Nhôm amoni sulfat	"Aluminium
 ammonium sulfate"	"Chất  làm  rắn  chắc,
 chất  điều  chỉnh  độ
 acid,  chất  giữ  màu,
 chất tạo xốp, chất ổn
 định"
-270.	524	Natri hydroxyd	Sodium hydroxide	"Chất  điều  chỉnh  độ
+270	524	Natri hydroxyd	Sodium hydroxide	"Chất  điều  chỉnh  độ
 acid"
-271.	525	Kali hydroxyd	"Potassium
+271	525	Kali hydroxyd	"Potassium
 hydroxide"	"Chất  điều  chỉnh  độ
 acid"
-272.	526	Calci hydroxyd	Calcium hydroxide	"Chất  điều  chỉnh  độ
+272	526	Calci hydroxyd	Calcium hydroxide	"Chất  điều  chỉnh  độ
 acid,   chất   làm   rắn
 chắc"
-273.	527	Amoni hydroxyd	"Ammonium
+273	527	Amoni hydroxyd	"Ammonium
 hydroxide"	"Chất  điều  chỉnh  độ
 acid"
-274.	528	Magnesi hydroxyd	"Magnesium
+274	528	Magnesi hydroxyd	"Magnesium
 hydroxide"	"Chất  điều  chỉnh  độ
 acid, chất giữ màu"
-275.	529	Oxyd calci	Calcium oxide	"Chất  điều  chỉnh  độ
+275	529	Oxyd calci	Calcium oxide	"Chất  điều  chỉnh  độ
 acid, chất xử lý bột"
-276.	530	Oxyd magnesi	Magnesium oxide	"Chất chống đông vón,
+276	530	Oxyd magnesi	Magnesium oxide	"Chất chống đông vón,
 chất  điều  chỉnh  độ
 acid"
-277.	535	Natri ferrocyanid	Sodium ferrocyanide	Chất chống đông vón
-278.	536	Kali ferrocyanid	"Potassium
+277	535	Natri ferrocyanid	Sodium ferrocyanide	Chất chống đông vón
+278	536	Kali ferrocyanid	"Potassium
 ferrocyanide"	Chất chống đông vón
-279.	538	Calci ferrocyanid	"Calcium
+279	538	Calci ferrocyanid	"Calcium
 ferrocyanide"	Chất chống đông vón
-280.	539	Natri thiosulfat	Sodium thiosulfate	"Chất chống oxi hóa,
+280	539	Natri thiosulfat	Sodium thiosulfate	"Chất chống oxi hóa,
 chất   tạo   phức   kim
 loại"
-281.	541(i)	"Natri nhôm
+281	541(i)	"Natri nhôm
 phosphat, dạng
 acid"	"Sodium aluminium
 phosphate, acidic"	"Chất  điều  chỉnh  độ
@@ -1137,155 +1136,155 @@ acid,  chất  nhũ  hóa,
 muối  nhũ  hóa,  chất
 tạo xốp, chất ổn định,
 chất làm dày"
-
-
-282.	541(ii)	"Natri nhôm
+				
+				
+282	541(ii)	"Natri nhôm
 phosphat, dạng
 bazo"	"Sodium aluminium
 phosphate, basic"	"Chất  điều  chỉnh  độ
 acid,  chất  nhũ  hóa,
 muối  nhũ  hóa,  chất
 ổn định, chất làm dày"
-283.	542	Bone phosphat	Bone phosphate	"Chất chống đông vón,
+283	542	Bone phosphat	Bone phosphate	"Chất chống đông vón,
 chất   nhũ   hóa,   chất
 làm ẩm, chất ổn định,
 chất làm dày"
-284.	551	"Dioxyd silic vô
+284	551	"Dioxyd silic vô
 định hình"	"Silicon dioxide,
 amorphous"	"Chất chống đông vón,
 chất  chống  tạo  bọt,
 chất mang"
-285.	552	Calci silicat	Calcium silicate	Chất chống đông vón
-286.	553(i)	"Magnesi silicat
+285	552	Calci silicat	Calcium silicate	Chất chống đông vón
+286	553(i)	"Magnesi silicat
 tổng hợp"	"Magnesium silicate,
 synthetic"	Chất chống đông vón
-287.	553(iii)	Bột talc	Talc	"Chất chống đông vón,
+287	553(iii)	Bột talc	Talc	"Chất chống đông vón,
 chất làm bóng, chất
 làm dày"
-288.	554	Natri nhôm silicat	"Sodium aluminium
+288	554	Natri nhôm silicat	"Sodium aluminium
 silicate"	Chất chống đông vón
-289.	575	"Glucono delta-
+289	575	"Glucono delta-
 lacton"	"Glucono delta-
 lactone"	"Chất  điều  chỉnh  độ
 acid,  chất  tạo  xốp,
 chất   tạo   phức   kim
 loại"
-290.	576	Natri gluconat	Sodium gluconate	"Chất  tạo  phức  kim
+290	576	Natri gluconat	Sodium gluconate	"Chất  tạo  phức  kim
 loại,  chất  làm  dày,
 chất ổn định"
-291.	577	Kali gluconat	Potassium gluconate	"Chất  tạo  phức  kim
+291	577	Kali gluconat	Potassium gluconate	"Chất  tạo  phức  kim
 loại, chất điều chỉnh
 độ acid"
-292.	578	Calci gluconat	Calcium gluconate	"Chất  điều  chỉnh  độ
+292	578	Calci gluconat	Calcium gluconate	"Chất  điều  chỉnh  độ
 acid,   chất   làm   rắn
 chắc,  chất  tạo  phức
 kim loại"
-293.	579	Sắt (II) gluconat	Ferrous gluconate	Chất giữ màu
-
-
-294.	580	Magnesi gluconat	"Magnesium
+293	579	Sắt (II) gluconat	Ferrous gluconate	Chất giữ màu
+				
+				
+294	580	Magnesi gluconat	"Magnesium
 gluconate"	"Chất  điều  chỉnh  độ
 acid,   chất   làm   rắn
 chắc, chất điều vị"
-295.	585	Sắt (II) lactat	Ferrous lactate	Chất giữ màu
-296.	586	4-hexylresorcinol	Hexylresorcinol, 4-	"Chất chống oxi hóa,
+295	585	Sắt (II) lactat	Ferrous lactate	Chất giữ màu
+296	586	4-hexylresorcinol	Hexylresorcinol, 4-	"Chất chống oxi hóa,
 chất giữ màu"
-297.	620	"Acid glutamic
+297	620	"Acid glutamic
 (L(+)-)"	Glutamic acid, L(+)-	Chất điều vị
-298.	621	"Mononatri L-
+298	621	"Mononatri L-
 glutamat"	"Monosodium L-
 glutamate"	Chất điều vị
-299.	622	"Monokali L-
+299	622	"Monokali L-
 glutamat"	"Monopotassium L-
 glutamate"	Chất điều vị
-300.	623	"Calci di-L-
+300	623	"Calci di-L-
 glutamat"	"Calcium di-L-
 glutamate"	Chất điều vị
-301.	624	"Monoamoni
+301	624	"Monoamoni
 glutamat"	"Monoammonium
 glutamate"	Chất điều vị
-302.	625	"Magnesi di-L
+302	625	"Magnesi di-L
 glutamat"	"Magnesium di-L
 glutamate"	Chất điều vị
-303.	626	Acid guanylic, 5'-	Guanylic acid, 5'-	Chất điều vị
-304.	627	Dinatri 5'-guanylat	"Disodium 5'-
+303	626	Acid guanylic, 5'-	Guanylic acid, 5'-	Chất điều vị
+304	627	Dinatri 5'-guanylat	"Disodium 5'-
 guanylate"	Chất điều vị
-305.	628	Dikali 5'-guanylat	"Dipotassium 5'-
+305	628	Dikali 5'-guanylat	"Dipotassium 5'-
 guanylate"	Chất điều vị
-306.	629	Calci 5'-guanylat	"Calcium 5'-
+306	629	Calci 5'-guanylat	"Calcium 5'-
 guanylate"	Chất điều vị
-307.	630	Acid inosinic, 5'-	Inosinic acid, 5'-	Chất điều vị
-308.	631	Dinatri 5'-inosinat	"Disodium 5'-
+307	630	Acid inosinic, 5'-	Inosinic acid, 5'-	Chất điều vị
+308	631	Dinatri 5'-inosinat	"Disodium 5'-
 inosinate"	Chất điều vị
-309.	632	Kali 5'-inosinat	"Potassium 5'-
+309	632	Kali 5'-inosinat	"Potassium 5'-
 inosinate"	Chất điều vị
-310.	633	Calci 5'-inosinat	Calcium 5'-inosinate	Chất điều vị
-311.	634	"Calci 5'-
+310	633	Calci 5'-inosinat	Calcium 5'-inosinate	Chất điều vị
+311	634	"Calci 5'-
 ribonucleotid"	"Calcium 5'-
 ribonucleotides"	Chất điều vị
-
-
-312.	635	"Dinatri 5'-
+				
+				
+312	635	"Dinatri 5'-
 ribonucleotid"	"Disodium 5'-
 ribonucleotides"	Chất điều vị
-313.	636	Maltol	Maltol	Chất điều vị
-314.	637	Ethyl maltol	Ethyl maltol	Chất điều vị
-315.	639	DL-Alanin	Alanine, DL-	Chất điều vị
-316.	640	Glycin	Glycine	Chất điều vị
-317.	900a	"Polydimethyl
+313	636	Maltol	Maltol	Chất điều vị
+314	637	Ethyl maltol	Ethyl maltol	Chất điều vị
+315	639	DL-Alanin	Alanine, DL-	Chất điều vị
+316	640	Glycin	Glycine	Chất điều vị
+317	900a	"Polydimethyl
 siloxan"	"Polydimethyl
 siloxane"	"Chất chống đông vón,
 chất  chống  tạo  bọt,
 chất nhũ hóa"
-318.	901	Sáp ong	Beeswax	"Chất làm bóng, chất
+318	901	Sáp ong	Beeswax	"Chất làm bóng, chất
 mang, chất nhũ hóa,
 chất ổn định, chất làm
 dày"
-319.	902	Sáp candelilla	Candelilla wax	"Chất làm bóng, chất
+319	902	Sáp candelilla	Candelilla wax	"Chất làm bóng, chất
 mang, chất nhũ hóa,
 chất làm dày"
-320.	903	Sáp carnauba	Carnauba wax	"Chất  độn,  chất  điều
+320	903	Sáp carnauba	Carnauba wax	"Chất  độn,  chất  điều
 chỉnh  độ  acid,  chất
 chống đông vón, chất
 mang, chất làm bóng"
-321.	904	Shellac tẩy trắng	Shellac, bleached	Chất làm bóng
-322.	905c(i)	Sáp vi tinh thể	"Microcrystalline
+321	904	Shellac tẩy trắng	Shellac, bleached	Chất làm bóng
+322	905c(i)	Sáp vi tinh thể	"Microcrystalline
 wax"	"Chất làm bóng, chất
 chống tạo bọt"
-323.	905d	"Dầu khoáng, độ
+323	905d	"Dầu khoáng, độ
 nhớt cao"	"Mineral oil, high
 viscosity"	"Chất làm bóng, chất
 chống tạo bọt"
-324.	905e	"Dầu khoáng, độ
+324	905e	"Dầu khoáng, độ
 nhớt trung bình"	"Mineral oil, medium
 viscosity"	Chất làm bóng
-325.	907	"Hydrogenated
+325	907	"Hydrogenated
 poly-1-decenes"	"Hydrogenated poly-
 1-decenes"	Chất làm bóng
-326.	E914	"Sáp oxidised
+326	E914	"Sáp oxidised
 polyethylene"	"Oxidised
 polyethylene wax"	Chất làm bóng
-327.	925	Khí clor	Chlorine	Chất xử lý bột
-328.	927a	Azodicarbonamid	Azodicarbonamide	Chất xử lý bột
-
-
-329.	928	Benzoyl peroxyd	Benzoyl peroxide	"Chất tẩy màu, chất xử
+327	925	Khí clor	Chlorine	Chất xử lý bột
+328	927a	Azodicarbonamid	Azodicarbonamide	Chất xử lý bột
+				
+				
+329	928	Benzoyl peroxyd	Benzoyl peroxide	"Chất tẩy màu, chất xử
 lý bột, chất bảo quản"
-330.	930	Calci peroxyd	Calcium peroxide	Chất xử lý bột
-331.	941	Khí nitơ	Nitrogen	"Chất tạo bọt, chất khí
+330	930	Calci peroxyd	Calcium peroxide	Chất xử lý bột
+331	941	Khí nitơ	Nitrogen	"Chất tạo bọt, chất khí
 đẩy, chất khí bao gói"
-332.	942	Khí nitơ oxyd	Nitrous oxide	"Chất khí đẩy, chất tạo
+332	942	Khí nitơ oxyd	Nitrous oxide	"Chất khí đẩy, chất tạo
 bọt, chất khí bao gói,
 chất chống oxy hóa"
-333.	950	Acesulfam kali	"Acesulfame
+333	950	Acesulfam kali	"Acesulfame
 potassium"	"Chất  tạo  ngọt,  chất
 điều vị"
-334.	951	Aspartam	Aspartame	"Chất điều vị, chất tạo
+334	951	Aspartam	Aspartame	"Chất điều vị, chất tạo
 ngọt"
-335.	952(i)	Acid cyclamic	Cyclamic acid	Chất tạo ngọt
-336.	952(ii)	Calci cyclamat	Calcium cyclamate	Chất tạo ngọt
-337.	952(iv)	Natri cyclamat	Sodium cyclamate	Chất tạo ngọt
-338.	953	"Isomalt
+335	952(i)	Acid cyclamic	Cyclamic acid	Chất tạo ngọt
+336	952(ii)	Calci cyclamat	Calcium cyclamate	Chất tạo ngọt
+337	952(iv)	Natri cyclamat	Sodium cyclamate	Chất tạo ngọt
+338	953	"Isomalt
 (Hydrogenated
 isomaltulose)"	"Isomalt
 (Hydrogenated
@@ -1294,29 +1293,29 @@ chống đông vón, chất
 độn, chất làm bóng,
 chất ổn định, chất làm
 dày"
-339.	954(i)	Saccharin	Saccharin	Chất tạo ngọt
-340.	954(ii)	Calci saccharin	Calcium saccharin	Chất tạo ngọt
-341.	954(iii)	Kali saccharin	Potassium saccharin	Chất tạo ngọt
-342.	954(iv)	Natri saccharin	Sodium saccharin	Chất tạo ngọt
-343.	955	"Sucralose
+339	954(i)	Saccharin	Saccharin	Chất tạo ngọt
+340	954(ii)	Calci saccharin	Calcium saccharin	Chất tạo ngọt
+341	954(iii)	Kali saccharin	Potassium saccharin	Chất tạo ngọt
+342	954(iv)	Natri saccharin	Sodium saccharin	Chất tạo ngọt
+343	955	"Sucralose
 (Triclorogalacto
 sucrose)"	"Sucralose
 (Trichlorogalac
 tosucrose)"	"Chất  tạo  ngọt,  chất
 điều vị"
-344.	956	Alitam	Alitame	Chất tạo ngọt
-345.	957	Thaumatin	Thaumatin	"Chất điều vị, chất tạo
+344	956	Alitam	Alitame	Chất tạo ngọt
+345	957	Thaumatin	Thaumatin	"Chất điều vị, chất tạo
 ngọt"
-346.	960a	"Steviol glycosid từ
+346	960a	"Steviol glycosid từ
 Stevia rebaudiana
 Bertoni (Steviol"	"Steviol glycosides
 from Stevia
 rebaudiana Bertoni"	Chất tạo ngọt
-
-
+				
+				
 		glycosid từ Stevia)	"(Steviol glycosides
-from Stevia)"
-347.	960b(i)	"Rebaudiosid A từ
+from Stevia)"	
+347	960b(i)	"Rebaudiosid A từ
 multiple gene
 donors expressed
 in Yarrowia
@@ -1324,52 +1323,52 @@ lipolytica"	"Rebaudioside A
 from multiple gene
 donors expressed in
 Yarrowia lipolytica"	Chất tạo ngọt
-348.	961	Neotam	Neotame	"Chất điều vị, chất tạo
+348	961	Neotam	Neotame	"Chất điều vị, chất tạo
 ngọt"
-349.	962	"Muối aspartam-
+349	962	"Muối aspartam-
 acesulfam"	"Aspartame-
 acesulfame salt"	Chất tạo ngọt
-350.	964	Siro polyglycitol	Polyglycitol syrup	Chất tạo ngọt
-351.	965(i)	Maltitol	Maltitol	"Chất  độn,  chất  nhũ
+350	964	Siro polyglycitol	Polyglycitol syrup	Chất tạo ngọt
+351	965(i)	Maltitol	Maltitol	"Chất  độn,  chất  nhũ
 hóa,   chất   làm   ẩm,
 chất ổn định, chất tạo
 ngọt, chất làm dày"
-352.	965(ii)	Siro maltitol	Maltitol syrup	"Chất  độn,  chất  nhũ
+352	965(ii)	Siro maltitol	Maltitol syrup	"Chất  độn,  chất  nhũ
 hóa,   chất   làm   ẩm,
 chất ổn định, chất tạo
 ngọt, chất làm dày"
-353.	966	Lactitol	Lactitol	"Chất  nhũ  hóa,  chất
+353	966	Lactitol	Lactitol	"Chất  nhũ  hóa,  chất
 tạo ngọt, chất làm dày"
-354.	967	Xylitol	Xylitol	"Chất  nhũ  hóa,  chất
+354	967	Xylitol	Xylitol	"Chất  nhũ  hóa,  chất
 làm ẩm, chất ổn định,
 chất  tạo  ngọt,  chất
 làm dày"
-355.	968	Erythritol	Erythritol	"Chất điều vị, chất làm
+355	968	Erythritol	Erythritol	"Chất điều vị, chất làm
 ẩm, chất tạo ngọt"
-356.	999(i)	"Chất chiết xuất từ
+356	999(i)	"Chất chiết xuất từ
 quillaia nhóm I"	"Quillaia extract
 type I"	"Chất tạo bọt, chất nhũ
 hóa"
-357.	999(ii)	"Chất chiết xuất từ
+357	999(ii)	"Chất chiết xuất từ
 quillaia nhóm II"	"Quillaia extract
 type II"	"Chất tạo bọt, chất nhũ
 hóa"
-
-
-358.	1100(i)	"alpha-Amylase từ
+				
+				
+358	1100(i)	"alpha-Amylase từ
 Aspergillus orysee
 var."	"alpha-Amylase from
 Aspergillus oryzae
 var."	Chất xử lý bột
-359.	1100(ii)	"alpha-Amylase từ
+359	1100(ii)	"alpha-Amylase từ
 Bacillus
 stearothermophilus"	"alpha-Amylase from
 Bacillus
 stearothermophilus"	Chất xử lý bột
-360.	1100(iii)	"alpha-Amylase từ
+360	1100(iii)	"alpha-Amylase từ
 Bacillus subtilis"	"alpha-Amylase from
 Bacillus subtilis"	Chất xử lý bột
-361.	1100(iv)	"alpha-Amylase từ
+361	1100(iv)	"alpha-Amylase từ
 Bacillus
 megaterium
 expressed in
@@ -1377,7 +1376,7 @@ Bacillus subtilis"	"alpha-Amylase from
 Bacillus megaterium
 expressed in
 Bacillus subtilis"	Chất xử lý bột
-362.	1100(v)	"alpha-Amylase từ
+362	1100(v)	"alpha-Amylase từ
 Bacillus
 stearothermophilus
 expressed in
@@ -1386,45 +1385,45 @@ Bacillus
 stearothermophilus
 expressed in
 Bacillus subtilis"	Chất xử lý bột
-363.	1100(vi)	"Carbohydrase từ
+363	1100(vi)	"Carbohydrase từ
 Bacillus
 licheniformis"	"Carbohydrase from
 Bacillus
 licheniformis"	Chất xử lý bột
-364.	1101(i)	"Protease từ
+364	1101(i)	"Protease từ
 Aspergillus orysee
 var."	"Protease from
 Aspergillus oryzae
 var."	"Chất điều vị, chất xử
 lý bột, chất ổn định"
-365.	1101(ii)	Papain	Papain	Chất điều vị
-366.	1101(iii)	Bromelain	Bromelain	"Chất điều vị, chất xử
+365	1101(ii)	Papain	Papain	Chất điều vị
+366	1101(iii)	Bromelain	Bromelain	"Chất điều vị, chất xử
 lý bột, chất ổn định"
-367.	1102	Glucose oxydase	Glucose oxidase	Chất chống oxy hóa
-368.	1104	Lipases	Lipases	Chất điều vị
-369.	1105	Lysozym	Lysozyme	Chất bảo quản
-370.	1200	Polydextrose	Polydextroses	"Chất  độn,  chất  làm
+367	1102	Glucose oxydase	Glucose oxidase	Chất chống oxy hóa
+368	1104	Lipases	Lipases	Chất điều vị
+369	1105	Lysozym	Lysozyme	Chất bảo quản
+370	1200	Polydextrose	Polydextroses	"Chất  độn,  chất  làm
 bóng,  chất  làm  ẩm,
 chất ổn định, chất làm
 dày"
-371.	1201	"Polyvinyl
+371	1201	"Polyvinyl
 pyrrolidon"	"Polyvinyl
 pyrrolidone"	"Chất  ổn  định,  chất
 nhũ   hóa,   chất   làm
 bóng, chất làm dày"
-
-
-372.	1202	"Polyvinyl
+				
+				
+372	1202	"Polyvinyl
 pyrrolidon, không
 tan"	"Polyvinyl
 pyrrolidone,
 insoluble"	"Chất giữ màu, chất ổn
 định"
-373.	1203	Polyvinyl alcohol	Polyvinyl alcohol	"Chất làm bóng, chất
+373	1203	Polyvinyl alcohol	Polyvinyl alcohol	"Chất làm bóng, chất
 làm dày"
-374.	1204	Pullulan	Pullulan	"Chất làm bóng, chất
+374	1204	Pullulan	Pullulan	"Chất làm bóng, chất
 làm dày"
-375.	1209	"Copolyme ghép
+375	1209	"Copolyme ghép
 của Polyvinyl
 alcohol (PVA) -
 Polyethylen glycol
@@ -1434,93 +1433,93 @@ polyethylene glucol
 (PEG) graft
 co-polymer"	"Chất làm bóng, chất
 ổn định, chất kết dính"
-376.	1210	Natri polyacrylat	Sodium polyacrylate	Chất ổn định
-377.	1400	"Dextrin, tinh bột
+376	1210	Natri polyacrylat	Sodium polyacrylate	Chất ổn định
+377	1400	"Dextrin, tinh bột
 rang"	"Dextrins, roasted
 starch"	"Chất mang, chất nhũ
 hóa,   chất   ổn   định,
 chất làm dày"
-378.	1401	"Tinh bột đã được
+378	1401	"Tinh bột đã được
 xử lý bằng acid"	Acid-treated starch	"Chất nhũ hoá, chất ổn
 định, chất làm dày"
-379.	1402	"Tinh bột đã được
+379	1402	"Tinh bột đã được
 xử lý bằng kiềm"	"Alkaline treated
 starch"	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-380.	1403	"Tinh bột đã khử
+380	1403	"Tinh bột đã khử
 màu"	Bleached starch	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-381.	1404	"Tinh bột xử lý oxy
+381	1404	"Tinh bột xử lý oxy
 hóa"	Oxydized starch	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-382.	1405	"Tinh bột, xử lý
+382	1405	"Tinh bột, xử lý
 bằng enzim"	"Starches, enzyme
 treated"	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-383.	1410	"Monostarch
+383	1410	"Monostarch
 phosphat"	"Monostarch
 phosphate"	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-384.	1412	Distarch phosphat	Distarch phosphate	"Chất nhũ hóa, chất ổn
+384	1412	Distarch phosphat	Distarch phosphate	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-385.	1413	"Phosphated
+385	1413	"Phosphated
 distarch phosphat"	"Phosphated distarch
 phosphate"	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-386.	1414	"Acetylated distarch
+386	1414	"Acetylated distarch
 phosphat"	"Acetylated distarch
 phosphate"	"Chất nhũ hoá, chất ổn
 định, chất làm dày"
-
-
-387.	1420	Starch acetate	Starch acetate	"Chất nhũ hóa, chất ổn
+				
+				
+387	1420	Starch acetate	Starch acetate	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-388.	1421	"Starch acetate este
+388	1421	"Starch acetate este
 hóa với vinyl
 acetate"	"Starch acetate
 esterified with vinyl
 acetate"	Chất xử lý bột
-389.	1422	"Acetylated distarch
+389	1422	"Acetylated distarch
 adipat"	"Acetylated distarch
 adipate"	"Chất nhũ hoá, chất ổn
 định, chất làm dày"
-390.	1440	"Hydroxypropyl
+390	1440	"Hydroxypropyl
 starch"	"Hydroxypropyl
 starch"	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-391.	1442	"Hydroxypropyl
+391	1442	"Hydroxypropyl
 distarch phosphat"	"Hydroxypropyl
 distarch phosphate"	"Chất chống đông vón,
 chất nhũ hóa, chất ổn
 định, chất làm dày"
-392.	1450	"Starch natri octenyl
+392	1450	"Starch natri octenyl
 succinat"	"Starch sodium
 octenyl succinate"	"Chất nhũ hóa, chất ổn
 định, chất làm dày"
-393.	1451	"Acetylated
+393	1451	"Acetylated
 oxydized starch"	"Acetylated oxidized
 starch"	"Chất nhũ hoá, chất ổn
 định, chất làm dày"
-394.	1503	Dầu Castor	Castor oil	"Chất chống đông vón,
+394	1503	Dầu Castor	Castor oil	"Chất chống đông vón,
 chất mang, chất nhũ
 hóa, chất làm bóng"
-395.	1504(i)	Cyclotetraglucose	Cyclotetraglucose	Chất mang
-396.	1504(ii)	"Siro
+395	1504(i)	Cyclotetraglucose	Cyclotetraglucose	Chất mang
+396	1504(ii)	"Siro
 cyclotetraglucose"	"Cyclotetraglucose
 syrup"	Chất mang
-397.	1505	Triethyl citrat	Triethyl citrate	"Chất mang, chất nhũ
+397	1505	Triethyl citrat	Triethyl citrate	"Chất mang, chất nhũ
 hóa,   chất   ổn   định,
 chất   tạo   phức   kim
 loại"
-398.	1518	Triacetin	Triacetin	"Chất mang, chất nhũ
+398	1518	Triacetin	Triacetin	"Chất mang, chất nhũ
 hóa, chất làm ẩm"
-399.	1520	Propylen glycol	Propylene glycol	"Chất  nhũ  hóa,  chất
+399	1520	Propylen glycol	Propylene glycol	"Chất  nhũ  hóa,  chất
 mang, chất làm bóng,
 chất làm ẩm"
-400.	1521	Polyethylen glycol	Polyethylene glycol	"Chất chống tạo bọt,
+400	1521	Polyethylen glycol	Polyethylene glycol	"Chất chống tạo bọt,
 chất mang, chất nhũ
 hóa, chất làm bóng,
 chất làm dày"
-
-
-34
+				
+				
+34				

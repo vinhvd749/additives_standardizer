@@ -1,0 +1,572 @@
+INS,Tiếng Việt,Tiếng Anh,Chức năng,Type
+e100_i,Curcumin,Curcumin,Phẩm màu,colour (yellow and orange)
+e100_ii,Turmeric,Turmeric,Phẩm màu,colour (yellow and orange)
+e101_i,"Riboflavin, tổng hợp","Riboflavin, synthetic",Phẩm màu,colour (yellow and orange)
+e101_ii,Natri Riboflavin 5'-phosphat,Riboflavin 5'- phosphate sodium,Phẩm màu,colour (yellow and orange)
+e101_iii,Riboflavin từ Bacillus subtilis,Riboflavin from Bacillus subtilis,Phẩm màu,colour (yellow and orange)
+e102,Tartrazin,Tartrazine,Phẩm màu,colour (yellow and orange) (FDA: FD&C Yellow #5)
+e104,Quinolin yellow,Quinoline yellow,Phẩm màu,colour (yellow and orange) (FDA: D&C Yellow #10)
+e110,Sunset yellow FCF,Sunset yellow FCF,Phẩm màu,colour (yellow and orange) (FDA: FD&C Yellow #6)
+e120,Carmin,Carmines,Phẩm màu,colour (red)
+e122,Azorubin (Carmoisin),Azorubine (Carmoisine),Phẩm màu,colour (red) (FDA: Ext D&C Red #10)
+e123,Amaranth,Amaranth,Phẩm màu,colour (red) (FDA: [DELISTED] Red #2)
+e124,Ponceau 4R (Cochineal red A),Ponceau 4R (Cochineal red A),Phẩm màu,colour (FDA: Ext D&C Red #8)
+e127,Erythrosin,Erythrosine,Phẩm màu,colour (red) (FDA: FD&C Red #3)
+e129,Allura red AC,Allura red AC,Phẩm màu,colour (FDA: FD&C Red #40)
+e132,Indigotin (Indigocarmin),Indigotine (Indigocarmine),Phẩm màu,colour (blue) (FDA: FD&C Blue #2)
+e133,Brilliant blue FCF,Brilliant blue FCF,Phẩm màu,colour (FDA: FD&C Blue #1)
+e140,Clorophylls,Chlorophylls,Phẩm màu,colour (green)
+e141_i,Phức đồng clorophyll,Chlorophyll copper complexes,Phẩm màu,colour (green)
+e141_ii,"Phức đồng clorophyllin (muối natri, kali của nó)","Chlorophyllins, copper complexes, sodium and potassium salts",Phẩm màu,colour (green)
+e143,Fast green FCF,Fast green FCF,Phẩm màu,colour (FDA: FD&C Green #3)
+e150a,Caramen nhóm I (caramen nguyên chất),Caramel I- plain caramel,Phẩm màu,colour (brown and black)
+e150b,Caramen nhóm II (caramen sulfit),Caramel II - sulfite caramel,Phẩm màu,colour (brown and black)
+e150c,Caramen nhóm III (caramen amoni),Caramel III - ammonia caramel,Phẩm màu,colour (brown and black)
+e150d,Caramen nhóm IV (caramen amoni sulfit),Caramel IV -sulfite ammonia caramel,Phẩm màu,colour (brown and black)
+e151,Brilliant black,Brilliant black,Phẩm màu,colour (brown and black)
+e153,Carbon thực vật,Vegetable carbon,Phẩm màu,colour (brown and black)
+e155,Brown HT,Brown HT,Phẩm màu,colour
+e160a_i,Beta-caroten tổng hợp,"Carotenes, beta-, synthetic",Phẩm màu,colour
+e160a_ii,Beta - Caroten (chiết xuất từ thực vật),"Carotenes, beta-, vegetable",Phẩm màu,colour
+e160a_iii,"Beta-Caroten, Blakeslea trispora","Carotenes, beta-, Blakeslea trispora",Phẩm màu,colour
+e160b_i,"Chất chiết xuất từ annatto, bixin based","Annatto extracts, bixin-based",Phẩm màu,colour
+e160b_ii,"Chất chiết xuất từ annatto, norbixin- based","Annatto extracts, norbixin-based",Phẩm màu,colour
+e160c_i,Paprika oleoresin,Paprika oleoresin,Phẩm màu,
+e160d_i,Lycopen tổng hợp,"Lycopene, synthetic",Phẩm màu,colour
+e160d_ii,Lycopen chiết xuất từ cà chua,"Lycopene, tomato",Phẩm màu,colour
+e160d_iii,"Lycopen, Blakeslea trispora","Lycopene, Blakeslea trispora",Phẩm màu,colour
+e160e,beta-apo- 8'- Carotenal,"Carotenal, beta-apo- 8'-",Phẩm màu,colour
+e160f,Este etyl của acid beta-apo-8'- Carotenoic,"Carotenoic acid, ethyl ester, beta- apo-8'-",Phẩm màu,colour
+e161b_i,Lutein từ Tagetes erecta,Lutein from Tagetes erecta,Phẩm màu,colour
+e161b_iii,Lutein este từ Tagetes erecta,Lutein esters from Tagetes erecta,Phẩm màu,
+e161g,Canthaxanthin,Canthaxanthin,Phẩm màu,colour
+e161h_i,Zeaxanthin tổng hợp,"Zeaxanthin, synthetic",Phẩm màu,colour
+e162,Beet red,Beet red,Phẩm màu,colour
+e163_ii,Chất chiết xuất vỏ nho,Grape skin extract,Phẩm màu,colour
+e163_iii,Chất chiết xuất từ quả lý chua đen,Blackcurrant extract,Phẩm màu,colour
+e163_iv,Màu ngô tím,Purple corn colour,Phẩm màu,colour
+e163_v,Màu bắp cải đỏ,Red cabbage colour,Phẩm màu,colour
+e163_vi,Chất chiết xuất từ cà rốt đen,Black carrot extract,Phẩm màu,
+e163_vii,Màu khoai lang tím,Purple sweet potato colour,Phẩm màu,
+e163_viii,Màu củ cải đỏ,Red radish colour,Phẩm màu,
+e164,Gardenia yellow,Gardenia yellow,Phẩm màu,
+e170_i,Calci carbonat,Calcium carbonate,Chất điều chỉnh độ,"Acidity regulator, anticaking agent, stabilizer, surface colourant"
+e171,Titan dioxyd,Titanium dioxide,Phẩm màu,colour (white)
+e172_i,Oxyd sắt đen,"Iron oxide, black",Phẩm màu,colour
+e172_ii,Oxyd sắt đỏ,"Iron oxide, red",Phẩm màu,colour
+e172_iii,Oxyd sắt vàng,"Iron oxide, yellow",Phẩm màu,colour
+e181,Acid tannic (Tannin),Tannic acid (Tannins),"Phẩm màu, chất nhũ hóa, chất ổn định, chất làm dày","colour, emulsifier, stabiliser, thickener"
+e200,Acid sorbic,Sorbic acid,Chất bảo quản,preservative
+e201,Natri sorbat,Sodium sorbate,Chất bảo quản,preservative
+e202,Kali sorbat,Potassium sorbate,Chất bảo quản,preservative
+e203,Calci sorbat,Calcium sorbate,Chất bảo quản,preservative
+e210,Acid benzoic,Benzoic acid,Chất bảo quản,preservative
+e211,Natri benzoat,Sodium benzoate,Chất bảo quản,preservative
+e212,Kali benzoat,Potassium benzoate,Chất bảo quản,preservative
+e213,Calci benzoat,Calcium benzoate,Chất bảo quản,preservative
+e214,Ethyl para- hydroxybenzoat,Ethyl para- hydroxybenzoate,Chất bảo quản,preservative
+e218,Methyl para- hydroxybenzoat,Methyl para- hydroxybenzoate,Chất bảo quản,preservative
+e220,Sulfua dioxyd,Sulfur dioxide,"Chất bảo quản, chất chống oxi hóa, chất tẩy màu, chất xử lý bột","preservative, antioxidant"
+e221,Natri sulfit,Sodium sulfite,"Chất bảo quản, chất chống oxi hóa, chất xử lý bột, chất tẩy màu","preservative, antioxidant"
+e222,Natri hydro sulfit,Sodium hydrogen sulfite,"Chất bảo quản, chất chống oxi hóa","preservative, antioxidant"
+e223,Natri metabisulfit,Sodium metabisulfite,"Chất bảo quản, chất chống oxi hóa, chất tẩy màu, chất xử lý bột","preservative, antioxidant, bleaching agent"
+e224,Kali metabisulfit,Potassium metabisulfite,"Chất bảo quản, chất chống oxi hóa, chất tẩy màu, chất xử lý bột","preservative, antioxidant"
+e225,Kali sulfit,Potassium sulfite,"Chất bảo quản, chất chống oxi hóa","preservative, antioxidant"
+e231,Ortho- phenylphenol,Ortho-phenylphenol,Chất bảo quản,preservative
+e232,Natri ortho- phenylphenol,Sodium ortho- phenylphenol,Chất bảo quản,preservative
+e234,Nisin,Nisin,Chất bảo quản,preservative
+e235,Natamycin,Natamycin,Chất bảo quản,preservative
+e239,Hexamethylen tetramin,Hexamethylene tetramine,Chất bảo quản,preservative
+e242,Dimethyl dicarbonat,Dimethyl dicarbonate,Chất bảo quản,preservative
+e243,Lauric argrinat ethyl este,Lauric argrinate ethyl ester,Chất bảo quản,
+e249,Kali nitrit,Postasium nitrite,"Chất giữ màu, chất bảo quản","preservative, colour fixative"
+e250,Natri nitrit,Sodium nitrite,"Chất giữ màu, chất bảo quản","preservative, colour fixative"
+e251,Natri nitrat,Sodium nitrate,"Chất giữ màu, chất bảo quản","preservative, colour fixative"
+e260,Acid acetic băng,"Acetic acid, glacial","Chất điều chỉnh độ acid, chất bảo quản","preservative, acidity regulator"
+e261_i,Kali acetat,Potassium acetate,"Chất điều chỉnh độ acid, chất bảo quản",
+e262_i,Natri acetat,Sodium acetate,Chất điều chỉnh độ,
+e262_ii,Natri diacetat,Sodium diacetate,"Chất điều chỉnh độ acid, chất bảo quản, chất tạo phức kim loại",
+e263,Calci acetat,Calcium acetate,"Chất điều chỉnh độ acid, chất bảo quản, chất ổn định","preservative, acidity regulator"
+e266,Natri dehydroacetat,Sodium dehydroacetate,Chất bảo quản,preservative
+e270,"Acid lactic (L-, D- và DL-)","Lactic acid, L-, D- and DL-",Chất điều chỉnh độ acid,"acidity regulator, preservative, antioxidant"
+e280,Acid propionic,Propionic acid,Chất bảo quản,preservative
+e281,Natri propionat,Sodium propionate,Chất bảo quản,preservative
+e282,Calci propionat,Calcium propionate,Chất bảo quản,preservative
+e283,Kali propionat,Potassium propionate,Chất bảo quản,preservative
+e290,Carbon dioxyd,Carbon dioxide,"Chất tạo khí carbonic, chất tạo bọt, chất khí bao gói, chất bảo quản, chất khí đẩy","acidity regulator, propellant"
+e296,Acid malic (DL-),"Malic acid, DL-","Chất điều chỉnh độ acid, chất tạo phức kim loại",acidity regulator
+e297,Acid fumaric,Fumaric acid,Chất điều chỉnh độ acid,acidity regulator
+e300,Acid ascorbic (L-),"Ascorbic acid, L-","Chất chống oxy hóa, chất điều chỉnh độ acid, chất xử lý bột, chất tạo phức kim loại",antioxidant (water-soluble)
+e301,Natri ascorbat,Sodium ascorbate,Chất chống oxy hóa,antioxidant (water-soluble)
+e302,Calci ascorbat,Calcium ascorbate,Chất chống oxy hóa,antioxidant (water-soluble)
+e304,Ascorbyl palmitat,Ascorbyl palmitate,Chất chống oxy hóa,antioxidant (fat soluble)
+e305,Ascorbyl stearat,Ascorbyl stearate,Chất chống oxy hóa,
+e307a,d-alpha-Tocopherol,"Tocopherol, d-alpha",Chất chống oxy hóa,antioxidant
+e307b,Tocopherol concentrat (dạng hỗn hợp),"Tocopherol concentrate, mixed",Chất chống oxy hóa,antioxidant
+e307c,dl-alpha- Tocopherol,"Tocopherol, dl- alpha-",Chất chống oxy hóa,antioxidant
+e310,Propyl gallat,Propyl gallate,Chất chống oxy hóa,antioxidant
+e314,Nhựa guaiac,Guaiac resin,Chất chống oxy hóa,
+e315,Acid erythorbic (acid isoascorbic),Erythorbic acid (Isoascorbic Acid),Chất chống oxy hóa,antioxidant
+e316,Natri erythorbat,Sodium erythorbate,Chất chống oxy hóa,antioxidant
+e319,Tert- butylhydroquinon (TBHQ),Tertiary butylhydroquinone,Chất chống oxy hóa,antioxidant
+e320,Butyl hydroxyanisol (BHA),Butylated hydroxyanisole,Chất chống oxy hóa,antioxidant (fat soluble)
+e321,Butyl hydroxytoluen (BHT),Butylated Hydroxytoluene,Chất chống oxy hóa,antioxidant (fat soluble)
+e322_i,Lecithin,Lecithin,"Chất chống oxy hóa, chất nhũ hóa",
+e325,Natri lactat,Sodium lactate,"Chất điều chỉnh độ acid, chất chống oxy hóa, chất độn, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất làm dày",food acid
+e326,Kali lactat,Potassium lactate,"Chất điều chỉnh độ acid, chất chống oxy hóa, chất nhũ hóa, chất làm ẩm",food acid
+e327,Calci lactat,Calcium lactate,"Chất điều chỉnh độ acid, muối nhũ hóa, chất xử lý bột, chất làm rắn chắc, chất làm dày",food acid
+e329,"Magnesi lactat, DL-","Magnesium lactate, DL-","Chất điều chỉnh độ acid, chất xử lý bột",food acid
+e330,Acid citric,Citric acid,"Chất điều chỉnh độ acid, chất chống oxy hóa, chất tạo phức kim loại, chất giữ màu",food acid
+e331_i,Natri dihydro citrat,Sodium dihydrogen citrate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất tạo phức kim loại, chất ổn định",
+e331_ii,Dinatri monohydro citrat,Disodium monohydrogen citrate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất tạo phức kim loại, chất ổn định",
+e331_iii,Trinatri citrat,Trisodium citrate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất tạo phức kim loại, chất ổn định",
+e332_i,Kali dihydro citrat,Potassium dihydrogen citrate,"Chất ổn định, chất điều chỉnh độ acid, muối nhũ hóa, chất tạo phức kim loại",
+e332_ii,Trikali citrat,Tripotassium citrate,"Chất ổn định, chất điều chỉnh độ acid, muối nhũ hóa, chất tạo phức kim loại",
+e333_iii,Tricalci citrat,Tricalcium citrate,"Chất điều chỉnh độ acid, muối nhũ hóa, chất làm rắn chắc, chất tạo phức kim loại, chất ổn định",
+e334,"Acid tartaric, L(+)-","Tartaric acid, L(+)-","Chất điều chỉnh độ acid, chất tạo phức kim loại, chất chống oxi hóa, chất điều vị",food acid
+e335_ii,Dinatri L(+)-tartrat,Disodium L(+)- tartrate,"Chất điều chỉnh độ acid, muối nhũ hóa, chất tạo phức kim loại, chất ổn định",
+e337,Kali natri L(+)- tartrat,Potassium sodium L(+)-tartrate,"Chất điều chỉnh độ acid, muối nhũ hóa, chất tạo phức kim loại, chất ổn định",food acid
+e338,Acid phosphoric,Phosphoric acid,"Chất điều chỉnh độ acid, chất chống oxy hóa, chất tạo phức kim loại",food acid
+e339_i,Natri dihydro phosphat,Sodium dihydrogen phosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất tạo xốp, chất tạo phức kim loại, chất ổn định, chất làm dày",
+e339_ii,Dinatri hydro phosphat,Disodium hydrogen phosphate,"Chất ổn định, chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm,",
+e339_iii,Trinatri phosphat,Trisodium phosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất bảo quản, chất ổn định, chất tạo phức kim loại, chất làm dày",
+e340_i,Kali dihydro phosphat,Potassium dihydrogen phosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất ổn định, chất tạo phức kim loại, chất làm dày",
+e340_ii,Dikali hydro phosphat,Dipotassium hydrogen phosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất ổn định, chất tạo phức kim loại, chất làm dày",
+e340_iii,Trikali hydro phosphat,Tripotassium hydrogen phosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất ổn định, chất tạo phức kim loại, chất làm dày",
+e341_i,Calci dihydro phosphat,Calcium dihydrogen phosphate,"Chất điều chỉnh độ acid, chất chống đông vón, muối nhũ hóa, chất làm rắn chắc, chất xử lý bột, chất làm ẩm, chất tạo xốp, chất tạo phức kim loại, chất ổn định, chất làm dày",
+e341_ii,Dicalci hydro phosphat,Dicalcium hydrogen phosphate,"Chất điều chỉnh độ acid, chất chống đông vón, muối nhũ hóa, chất làm rắn chắc, chất xử lý bột, chất làm ẩm, chất tạo xốp, chất ổn định, chất làm dày",
+e341_iii,Tricalci phosphat,Tricalcium phosphate,"Chất điều chỉnh độ acid, chất chống đông vón, chất nhũ hóa, muối nhũ hóa, chất làm rắn chắc, chất xử lý bột, chất làm ẩm, chất tạo xốp, chất ổn định, chất làm dày",
+e342_i,Amoni dihydro phosphat,Ammonium dihydrogen phosphate,"Chất điều chỉnh độ acid, chất xử lý bột, chất ổn định, chất làm dày, chất tạo xốp",
+e342_ii,Diamoni hydro phosphat,Diammonium hydrogen phosphate,"Chất điều chỉnh độ acid, chất xử lý bột, chất tạo xốp, chất ổn định, chất làm dày",
+e343_i,Magnesi dihydro phosphat,Magnesium dihydrogen phosphate,"Chất điều chỉnh độ acid, chất chống đông vón, muối nhũ hóa, chất ổn định, chất làm dày",
+e343_ii,Magnesi hydro phosphat,Magnesium hydrogen phosphate,"Chất điều chỉnh độ acid, chất chống đông vón, muối nhũ hóa, chất tạo xốp, chất ổn định, chất làm dày",
+e343_iii,Trimagnesi phosphat,Trimagnesium phosphate,"Chất điều chỉnh độ acid, chất chống đông",
+e350_i,Natri hyro DL- malat,Sodium hyrogen DL-malate,"Chất điều chỉnh độ acid, chất làm ẩm",
+e350_ii,Natri DL-malat,Sodium DL-malate,"Chất điều chỉnh độ acid, chất làm ẩm",
+e352_ii,"Calci malat, DL-","Calcium malate, DL-",Chất điều chỉnh độ acid,
+e353,Acid metatartaric,Metatartaric acid,"Chất điều chỉnh độ acid, chất nhũ hóa, chất ổn định, chất làm dày","food acid, emulsifier"
+e355,Acid adipic,Adipic acid,Chất điều chỉnh độ acid,food acid
+e363,Acid succinic,Succinic acid,Chất điều chỉnh độ acid,food acid
+e364_ii,Dinatri succinat,Disodium succinate,"Chất điều chỉnh độ acid, chất điều vị",
+e365,Natri fumarat (các muối),Sodium fumarates,Chất điều chỉnh độ acid,food acid
+e380,Triamoni citrat,Triammonium citrate,Chất điều chỉnh độ acid,food acid
+e381,Sắt amoni citrat,Ferric ammonium citrate,Chất chống đông vón,food acid
+e384,Isopropyl citrate (các muối),Isopropyl citrates,"Chất tạo phức kim loại, chất chống oxi hóa, chất bảo quản","antioxidant, preservative"
+e385,Calci dinatri etylendiamintetraa cetat,Calcium disodium ethylenediaminetetr aacetate,"Chất tạo phức kim loại, chất chống oxi hóa, chất giữ màu, chất bảo quản",preservative
+e386,Dinatri ethylendiamintetra acetat (EDTA),Disodium ethylenediaminetetr aacetate,"Chất tạo phức kim loại, chất chống oxi hóa, chất giữ màu,","antioxidant, preservative"
+e388,Acid thiodipropionic,Thiodipropionic acid,Chất chống oxy hóa,antioxidant
+e389,Dilauryl thiodipropionat,Dilauryl thiodipropionate,Chất chống oxy hóa,antioxidant
+e392,Chiết xuất hương thảo,Rosemary extract,Chất chống oxy hóa,
+e400,Acid alginic,Alginic acid,"Chất làm dày, chất độn, chất mang, chất nhũ hóa, chất tạo bọt, chất tạo gel, chất làm bóng, chất làm ẩm, chất tạo phức kim loại, chất ổn định","thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+e401,Natri alginat,Sodium alginate,"Chất độn, chất mang, chất nhũ hóa, chất tạo bọt, chất tạo gel, chất làm bóng, chất làm ẩm, chất tạo phức kim loại, chất ổn định, chất làm dày","thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+e402,Kali alginat,Potassium alginate,"Chất độn, chất mang, chất nhũ hóa, chất tạo bọt, chất tạo gel, chất làm bóng, chất làm ẩm, chất tạo phức kim loại, chất ổn định, chất làm dày","thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+e403,Amoni alginat,Ammonium alginate,"Chất độn, chất mang, chất nhũ hóa, chất tạo bọt, chất tạo gel, chất làm bóng, chất làm ẩm, chất tạo phức kim loại, chất ổn định, chất làm dày","thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+e404,Calci alginat,Calcium alginate,"Chất làm dày, chất chống tạo bọt, chất độn, chất mang, chất tạo gel, chất làm bóng, chất làm ẩm, chất tạo phức kim loại, chất ổn định","thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+e405,Propylen glycol alginat,Propylene glycol alginate,"Chất độn, chất mang, chất nhũ hóa, chất tạo bọt, chất tạo gel, chất làm dày, chất ổn định","thickener, vegetable gum, stabilizer, emulsifier"
+e406,Thạch Aga,Agar,"Chất làm dày, chất độn, chất mang, chất nhũ hóa, chất tạo gel, chất làm bóng, chất làm ẩm, chất ổn định","thickener, vegetable gum, stabilizer, gelling agent"
+e407,Carrageenan,Carrageenan,"Chất làm dày, chất độn, chất mang, chất nhũ hóa, chất tạo gel, chất làm bóng, chất làm ẩm, chất ổn định","thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+e407a,Rong biển eucheuma đã qua chế biến,Processed eucheuma seaweed (PES),"Chất độn, chất mang, chất nhũ hóa, chất tạo gel, chất làm bóng, chất làm ẩm, chất ổn định, chất làm dày","thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+e410,Gôm đậu carob,Carob bean gum,"Chất làm dày, chất nhũ hóa, chất ổn định","thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+e412,Gôm gua,Guar gum,"Chất làm dày, chất nhũ hóa, chất ổn định","thickener, vegetable gum, stabilizer"
+e413,Gôm tragacanth,Tragacanth gum,"Chất làm dày, chất nhũ hóa, chất ổn định","thickener, vegetable gum, stabilizer, emulsifier"
+e414,Gôm arabic,Gum arabic (Acacia gum),"Chất làm dày, chất độn, chất nhũ hóa, chất mang, chất làm bóng, chất ổn định","thickener, vegetable gum, stabilizer, emulsifier"
+e415,Gôm xanthan,Xanthan gum,"Chất làm dày, chất nhũ hóa, chất tạo bọt, chất ổn định","thickener, vegetable gum, stabilizer"
+e416,Gôm karaya,Karaya gum,"Chất làm dày, chất nhũ hóa, chất ổn định","thickener, vegetable gum, stabilizer, emulsifier"
+e417,Gôm tara,Tara gum,"Chất làm dày, chất tạo gel, chất ổn định","thickener, vegetable gum, stabilizer"
+e418,Gôm gellan,Gellan gum,"Chất làm dày, chất tạo gel, chất ổn định","thickener, vegetable gum, stabilizer, emulsifier"
+e420_i,Sorbitol,Sorbitol,"Chất tạo ngọt, chất độn, chất làm ẩm, chất tạo phức kim loại, chất ổn định, chất làm dày",
+e420_ii,Siro sorbitol,Sorbitol syrup,"Chất tạo ngọt, chất độn, chất làm ẩm, chất tạo phức kim loại, chất ổn định, chất làm dày",
+e421,Manitol,Mannitol,"Chất chống đông vón, chất độn, chất làm ẩm, chất ổn định, chất tạo ngọt, chất làm dày","humectant, anti-caking agent, sweetener"
+e422,Glycerol,Glycerol,"Chất làm dày, chất làm ẩm","humectant, sweetener"
+e423,Gôm arabic biến tính bằng acid octenyl succinic (OSA),Octenyl succinic acid (OSA) modified gum arabic,Chất nhũ hóa,
+e424,Curdlan,Curdlan,"Chất làm rắn chắc, chất tạo gel, chất ổn định, chất làm dày",
+e425,Bột konjac,Konjac flour,"Chất mang, chất nhũ hóa, chất tạo gel, chất làm bóng, chất làm ẩm, chất ổn định, chất làm dày","thickener, vegetable gum"
+e427,Gôm cassia,Cassia gum,"Chất nhũ hóa, chất tạo gel, chất ổn định, chất làm dày",
+e430,Polyoxyethylen (8) stearat,Polyoxyethylene (8) stearate,Chất nhũ hóa,"emulsifier, stabilizer"
+e431,Polyoxyethylen (40) stearat,Polyoxyethylene (40) stearate,Chất nhũ hóa,emulsifier
+e432,Polyoxyethylen (20) sorbitan monolaurat,Polyoxyethylene (20) sorbitan monolaurate,"Chất nhũ hóa, chất ổn định",emulsifier
+e433,Polyoxyethylen (20) sorbitan monooleat,Polyoxyethylene (20) sorbitan monooleate,"Chất nhũ hóa, chất ổn định",emulsifier
+e434,Polyoxyethylen (20) sorbitan monopalmitat,Polyoxyethylene (20) sorbitan monopalmitate,Chất nhũ hóa,emulsifier
+e435,Polyoxyethylen (20) sorbitan monostearat,Polyoxyethylene (20) sorbitan monostearate,"Chất nhũ hóa, chất ổn định",emulsifier
+e436,Polyoxyethylen (20) sorbitan tristearat,Polyoxyethylene (20) sorbitan tristearate,"Chất nhũ hóa, chất ổn định",emulsifier
+e440,Pectin,Pectins,"Chất nhũ hóa, chất tạo gel, chất làm bóng, chất ổn định, chất làm dày","vegetable gum, emulsifier"
+e442,Các muối amoni của acid phosphatidic,Ammonium salts of phosphatidic acid,Chất nhũ hóa,emulsifier
+e444,Sucrose acetat isobutyrat,Sucrose acetate isobutyrate,"Chất nhũ hóa, chất ổn định","emulsifier, stabiliser"
+e445_iii,Glycerol ester của nhựa cây,Glycerol ester of wood rosin,"Chất nhũ hóa, chất ổn định",
+e450_i,Dinatri diphosphat,Disodium diphosphate,"Chất nhũ hóa, chất điều chỉnh độ acid, muối nhũ hóa, chất làm ẩm, chất tạo xốp, chất tạo phức kim loại, chất ổn định, chất làm dày",
+e450_ii,Trinatri diphosphat,Trisodium diphosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất tạo xốp, chất làm ẩm, chất tạo phức kim loại, chất ổn định, chất làm dày",
+e450_iii,Tetranatri diphosphat,Tetrasodium diphosphate,"Chất tạo phức kim loại, chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất ổn định, chất làm ẩm, chất tạo xốp, chất làm dày",
+e450_v,Tetrakali diphosphat,Tetrapotassium diphosphate,"Chất tạo phức kim loại, chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất ổn định, chất làm ẩm, chất tạo xốp, chất làm dày",
+e450_vi,Dicalci diphosphat,Dicalcium diphosphate,"Chất tạo phức kim loại, chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất",
+e450_vii,Calci dihydro diphosphat,Calcium dihydrogen diphosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất tạo xốp, chất tạo phức kim loại, chất ổn định",
+e450_ix,Magnesi dihydro diphosphat,Magnesium dihydrogen diphosphate,"Chất điều chỉnh độ acid, chất tạo xốp, chất ổn định",
+e451_i,Pentanatri triphosphat,Pentasodium triphosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất tạo phức kim loại, chất ổn định, chất làm dày",
+e451_ii,Pentakali triphosphat,Pentapotassium triphosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất tạo phức kim loại, chất ổn định, chất làm dày",
+e452_i,Natri polyphosphat,Sodium polyphosphate,"Chất tạo phức kim loại, chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất tạo xốp, chất ổn định, chất làm dày",
+e452_ii,Kali polyphosphat,Potassium polyphosphate,"Chất tạo phức kim loại, chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất tạo xốp,",
+e452_iii,Natri calci polyphosphat,Sodium calcium polyphosphate,"Chất điều chỉnh độ acid, chất tạo phức kim loại, chất nhũ hóa, chất làm ẩm, chất tạo xốp, chất ổn định",
+e452_iv,Calci polyphosphat,Calcium polyphosphate,"Chất tạo phức kim loại, chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất làm ẩm, chất tạo xốp, chất ổn định, chất làm dày",
+e452_v,Amoni polyphosphat,Ammonium polyphosphate,"Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất tạo phức kim loại, chất làm ẩm, chất ổn định, chất làm dày",
+e455,Mannoprotein của nấm men,Yeast mannoproteins,Chất ổn định,
+e457,alpha-Cyclodextrin,"Cyclodextrin, alpha-","Chất làm dày, chất ổn định",
+e458,gamma- Cyclodextrin,"Cyclodextrin, gamma-","Chất làm dày, chất ổn định",
+e459,beta-Cyclodextrin,"Cyclodextrin, beta-","Chất mang, chất ổn định, chất làm dày",emulsifier
+e460_i,Cellulose vi tinh thể,Microcrystalline cellulose,"Chất độn, chất chống đông vón, chất mang, chất làm bóng, chất nhũ hóa, chất tạo bọt, chất ổn định, chất làm dày",
+e460_ii,Bột cellulose,Powdered cellulose,"Chất độn, chất chống đông vón, chất nhũ hóa, chất làm bóng, chất làm ẩm, chất ổn định, chất làm dày",
+e461,Methyl cellulose,Methyl cellulose,"Chất độn, chất làm bóng, chất nhũ hóa, chất ổn định, chất làm dày","thickener, emulsifier, vegetable gum"
+e462,Ethyl cellulose,Ethyl cellulose,"Chất kết dính, chất làm dày, chất độn, chất mang, chất làm bóng",
+e463,Hydroxypropyl cellulose,Hydroxypropyl cellulose,"Chất làm dày, chất ổn định, chất nhũ hóa, chất tạo bọt, chất làm bóng","thickener, vegetable gum, emulsifier"
+e464,Hydroxypropyl methyl cellulose,Hydroxypropyl methyl cellulose,"Chất nhũ hóa, chất làm bóng, chất ổn định, chất làm dày, chất độn","thickener, vegetable gum, emulsifier"
+e465,Methyl ethyl cellulose,Methyl ethyl cellulose,"Chất nhũ hóa, chất tạo bọt, chất ổn định, chất làm dày","thickener, vegetable gum, emulsifier"
+e466,Natri carboxymethyl cellulose,Sodium carboxymethyl cellulose,"Chất làm dày, chất độn, chất nhũ hóa, chất làm bóng, chất ổn định, chất làm ẩm, chất làm rắn chắc, chất tạo gel",emulsifier
+e467,Ethyl hydroxyethyl cellulose,Ethyl hydroxyethyl cellulose,"Chất nhũ hóa, chất ổn định, chất làm dày",
+e468,Cross-linked natri carboxymethyl cellulose,Cross-linked sodium carboxymethyl cellulose,"Chất ổn định, chất làm dày",emulsifier
+e469,"Natri carboxymethyl cellulose, thủy phân bằng enzym","Sodium carboxymethyl cellulose, enzymatically hydrolysed","Chất ổn định, chất làm dày",emulsifier
+e470_i,"Muối của acid myristic, palmitic và stearic (NH4, Ca, K và Na)","Salts of myristic, palmitic and stearic acids with ammonia, calcium, potassium and sodium","Chất chống đông vón, chất nhũ hóa, chất ổn định",
+e470_ii,"Muối của acid oleic (Ca, Na và K)","Salts of oleic acid with calcium, potassium and sodium","Chất chống đông vón, chất nhũ hóa, chất ổn định",
+e470_iii,Magnesi sterat,Magnesium stearate,"Chất chống đông vón, chất nhũ hóa, chất làm dày",
+e471,Mono và diglycerid của các acid béo,Mono- and Di- glycerides of fatty acids,"Chất nhũ hóa, chất chống tạo bọt, chất làm bóng, chất ổn định",emulsifier
+e472a,Este của glycerol với acid acetic và acid béo,Acetic and fatty acid esters of glycerol,"Chất nhũ hóa, chất tạo phức kim loại, chất ổn định",emulsifier
+e472b,Este của glycerol với acid lactic và acid béo,Lactic and fatty acid esters of glycerol,"Chất nhũ hóa, chất tạo phức kim loại, chất ổn định",emulsifier
+e472c,Este của glycerol với acid citric và acid béo,Citric and fatty acid esters of glycerol,"Chất nhũ hóa, chất chống oxy hóa, chất xử lý bột, chất tạo phức kim loại, chất ổn định",emulsifier
+e472e,Este của glycerol với acid diacetyl tartaric và acid béo,Diacetyltartaric and fatty acid esters of glycerol,"Chất nhũ hóa, chất tạo phức kim loại, chất ổn định",emulsifier
+e473,Este của sucrose với các acid béo,Sucrose esters of fatty acids,"Chất nhũ hóa, chất tạo bọt, chất làm bóng, chất ổn định",emulsifier
+e473a,Oligoeste typ 1 và typ 2 của sucrose,Sucrose oligoesters type I and type II,"Chất nhũ hóa, chất làm bóng, chất ổn định",
+e474,Sucroglycerid,Sucroglycerides,Chất nhũ hóa,emulsifier
+e475,Este của polyglycerol với các acid béo,Polyglycerol esters of fatty acids,"Chất nhũ hóa, chất ổn định",emulsifier
+e476,Este của polyglycerol với acid ricinoleic,Polyglycerol esters of interesterified ricinoleic acid,Chất nhũ hóa,emulsifier
+e477,Este của propylen glycol với acid béo,Propylene glycol esters of fatty acids,Chất nhũ hóa,emulsifier
+e479,Dầu đậu nành oxy hóa nhiệt tương tác với mono và diglycerid của các acid béo,Thermally oxydized soya bean oil interacted with mono- and diglycerides of fatty acids,Chất nhũ hóa,
+e480,Dioctyl natri sulfosuccinat,Dioctyl sodium sulfosuccinate,"Chất nhũ hóa, chất làm ẩm",emulsifier
+e481_i,Natri stearoyl lactylat,Sodium stearoyl lactylate,"Chất nhũ hóa, chất xử lý bột, chất tạo bọt, chất ổn định",
+e482_i,Calci stearoyl lactylat,Calcium stearoyl lactylate,"Chất nhũ hóa, chất xử lý bột, chất tạo bọt, chất ổn định",
+e484,Stearyl citrat,Stearyl citrate,"Chất nhũ hóa, chất chống oxi hóa, chất tạo phức kim loại",
+e491,Sorbitan monostearat,Sorbitan monostearate,"Chất nhũ hóa, chất ổn định",emulsifier
+e492,Sorbitan tristearat,Sorbitan tristearate,"Chất nhũ hóa, chất ổn định",emulsifier
+e493,Sorbitan monolaurat,Sorbitan monolaurate,"Chất nhũ hóa, chất ổn định",emulsifier
+e494,Sorbitan monooleat,Sorbitan monooleate,"Chất nhũ hóa, chất ổn định",emulsifier
+e495,Sorbitan monopalmitat,Sorbitan monopalmitate,Chất nhũ hóa,emulsifier
+e500_i,Natri carbonat,Sodium carbonate,"Chất tạo xốp, chất điều chỉnh độ acid, chất chống đông vón, muối nhũ hóa, chất ổn định, chất làm dày",
+e500_ii,Natri hydro carbonat,Sodium hydrogen carbonate,"Chất ổn định, chất điều chỉnh độ acid, chất chống đông vón, chất tạo xốp, chất làm dày",
+e500_iii,Natri sesquicarbonat,Sodium sesquicarbonate,"Chất điều chỉnh độ acid, chất chống đông vón, chất tạo xốp",
+e501_i,Kali carbonat,Potassium carbonate,"Chất ổn định, chất điều chỉnh độ acid",
+e501_ii,Kali hydro carbonat,Potassium hydrogen carbonate,"Chất điều chỉnh độ acid, chất tạo xốp, chất ổn định",
+e503_i,Amoni carbonat,Ammonium carbonate,"Chất tạo xốp, chất điều chỉnh độ acid",
+e503_ii,Amoni hydro carbonat,Ammonium hydrogen carbonate,"Chất điều chỉnh độ acid, chất tạo xốp",
+e504_i,Magnesi carbonat,Magnesium carbonate,"Chất điều chỉnh độ acid, chất chống đông vón, chất giữ màu",
+e504_ii,Magnesi hydroxyd carbonat,Magnesium hydroxide carbonate,"Chất điều chỉnh độ acid, chất chống đông vón, chất mang, chất giữ màu",
+e507,Acid hydrocloric,Hydrochloric acid,Chất điều chỉnh độ acid,acidity regulator
+e508,Kali clorid,Potassium chloride,"Chất ổn định, chất điều vị, chất làm rắn chắc, chất làm dày",mineral salt
+e509,Calci clorid,Calcium chloride,"Chất làm rắn chắc, chất ổn định, chất làm dày",mineral salt
+e510,Amoni clorid,Ammonium chloride,Chất xử lý bột,mineral salt
+e511,Magnesi clorid,Magnesium chloride,"Chất giữ màu, chất ổn định, chất làm rắn chắc",mineral salt
+e512,Thiếc clorid,Stannous chloride,"Chất chống oxy hóa, chất giữ màu","colour retention agent, antioxidant"
+e514_i,Natri sulfat,Sodium sulfate,Chất điều chỉnh độ acid,
+e514_ii,Natri hydro sulfat,Sodium hydrogen sulfate,Chất điều chỉnh độ acid,
+e515_i,Kali sulfat,Potassium sulfate,Chất điều chỉnh độ acid,
+e515_ii,Kali hydro sulfat,Potassium hydrogen sulfate,Chất điều chỉnh độ acid,
+e516,Calci sulfat,Calcium sulfate,"Chất làm rắn chắc, chất điều chỉnh độ acid, chất xử lý bột, chất tạo phức kim loại, chất ổn định","flour treatment agent, mineral salt, sequestrant, improving agent, firming agent"
+e518,Magnesi sulfat,Magnesium sulfate,"Chất làm rắn chắc, chất điều vị","mineral salt, acidity regulator, firming agent"
+e523,Nhôm amoni sulfat,Aluminium ammonium sulfate,"Chất làm rắn chắc, chất điều chỉnh độ acid, chất giữ màu, chất tạo xốp, chất ổn định",mineral salt
+e524,Natri hydroxyd,Sodium hydroxide,Chất điều chỉnh độ acid,mineral salt
+e525,Kali hydroxyd,Potassium hydroxide,Chất điều chỉnh độ acid,mineral salt
+e526,Calci hydroxyd,Calcium hydroxide,"Chất điều chỉnh độ acid, chất làm rắn chắc",mineral salt
+e527,Amoni hydroxyd,Ammonium hydroxide,Chất điều chỉnh độ acid,mineral salt
+e528,Magnesi hydroxyd,Magnesium hydroxide,"Chất điều chỉnh độ acid, chất giữ màu",mineral salt
+e529,Oxyd calci,Calcium oxide,"Chất điều chỉnh độ acid, chất xử lý bột",mineral salt
+e530,Oxyd magnesi,Magnesium oxide,"Chất chống đông vón, chất điều chỉnh độ acid",anti-caking agent
+e535,Natri ferrocyanid,Sodium ferrocyanide,Chất chống đông vón,anti-caking agent
+e536,Kali ferrocyanid,Potassium ferrocyanide,Chất chống đông vón,anti-caking agent
+e538,Calci ferrocyanid,Calcium ferrocyanide,Chất chống đông vón,anti-caking agent
+e539,Natri thiosulfat,Sodium thiosulfate,"Chất chống oxi hóa, chất tạo phức kim loại",
+e541_i,"Natri nhôm phosphat, dạng acid","Sodium aluminium phosphate, acidic","Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất tạo xốp, chất ổn định, chất làm dày",
+e541_ii,"Natri nhôm phosphat, dạng bazo","Sodium aluminium phosphate, basic","Chất điều chỉnh độ acid, chất nhũ hóa, muối nhũ hóa, chất ổn định, chất làm dày",
+e542,Bone phosphat,Bone phosphate,"Chất chống đông vón, chất nhũ hóa, chất làm ẩm, chất ổn định, chất làm dày",anti-caking agent
+e551,Dioxyd silic vô định hình,"Silicon dioxide, amorphous","Chất chống đông vón, chất chống tạo bọt, chất mang",anti-caking agent
+e552,Calci silicat,Calcium silicate,Chất chống đông vón,anti-caking agent
+e553_i,Magnesi silicat tổng hợp,"Magnesium silicate, synthetic",Chất chống đông vón,
+e553_iii,Bột talc,Talc,"Chất chống đông vón, chất làm bóng, chất làm dày",
+e554,Natri nhôm silicat,Sodium aluminium silicate,Chất chống đông vón,anti-caking agent
+e575,Glucono delta- lacton,Glucono delta- lactone,"Chất điều chỉnh độ acid, chất tạo xốp, chất tạo phức kim loại",acidity regulator
+e576,Natri gluconat,Sodium gluconate,"Chất tạo phức kim loại, chất làm dày, chất ổn định",stabiliser
+e577,Kali gluconat,Potassium gluconate,"Chất tạo phức kim loại, chất điều chỉnh độ acid",stabiliser
+e578,Calci gluconat,Calcium gluconate,"Chất điều chỉnh độ acid, chất làm rắn chắc, chất tạo phức kim loại",acidity regulator
+e579,Sắt (II) gluconat,Ferrous gluconate,Chất giữ màu,colour retention agent
+e580,Magnesi gluconat,Magnesium gluconate,"Chất điều chỉnh độ acid, chất làm rắn chắc, chất điều vị",
+e585,Sắt (II) lactat,Ferrous lactate,Chất giữ màu,
+e586,4-hexylresorcinol,"Hexylresorcinol, 4-","Chất chống oxi hóa, chất giữ màu",
+e620,Acid glutamic (L(+)-),"Glutamic acid, L(+)-",Chất điều vị,flavour enhancer
+e621,Mononatri L- glutamat,Monosodium L- glutamate,Chất điều vị,flavour enhancer
+e622,Monokali L- glutamat,Monopotassium L- glutamate,Chất điều vị,flavour enhancer
+e623,Calci di-L- glutamat,Calcium di-L- glutamate,Chất điều vị,flavour enhancer
+e624,Monoamoni glutamat,Monoammonium glutamate,Chất điều vị,flavour enhancer
+e625,Magnesi di-L glutamat,Magnesium di-L glutamate,Chất điều vị,flavour enhancer
+e626,"Acid guanylic, 5'-","Guanylic acid, 5'-",Chất điều vị,flavour enhancer
+e627,Dinatri 5'-guanylat,Disodium 5'- guanylate,Chất điều vị,flavour enhancer
+e628,Dikali 5'-guanylat,Dipotassium 5'- guanylate,Chất điều vị,flavour enhancer
+e629,Calci 5'-guanylat,Calcium 5'- guanylate,Chất điều vị,flavour enhancer
+e630,"Acid inosinic, 5'-","Inosinic acid, 5'-",Chất điều vị,flavour enhancer
+e631,Dinatri 5'-inosinat,Disodium 5'- inosinate,Chất điều vị,flavour enhancer
+e632,Kali 5'-inosinat,Potassium 5'- inosinate,Chất điều vị,flavour enhancer
+e633,Calci 5'-inosinat,Calcium 5'-inosinate,Chất điều vị,flavour enhancer
+e634,Calci 5'- ribonucleotid,Calcium 5'- ribonucleotides,Chất điều vị,flavour enhancer
+e635,Dinatri 5'- ribonucleotid,Disodium 5'- ribonucleotides,Chất điều vị,flavour enhancer
+e636,Maltol,Maltol,Chất điều vị,flavour enhancer
+e637,Ethyl maltol,Ethyl maltol,Chất điều vị,flavour enhancer
+e639,DL-Alanin,"Alanine, DL-",Chất điều vị,
+e640,Glycin,Glycine,Chất điều vị,flavour enhancer
+e900a,Polydimethyl siloxan,Polydimethyl siloxane,"Chất chống đông vón, chất chống tạo bọt, chất nhũ hóa",
+e901,Sáp ong,Beeswax,"Chất làm bóng, chất mang, chất nhũ hóa, chất ổn định, chất làm dày",glazing agent
+e902,Sáp candelilla,Candelilla wax,"Chất làm bóng, chất mang, chất nhũ hóa, chất làm dày",glazing agent
+e903,Sáp carnauba,Carnauba wax,"Chất độn, chất điều chỉnh độ acid, chất chống đông vón, chất mang, chất làm bóng",glazing agent
+e904,Shellac tẩy trắng,"Shellac, bleached",Chất làm bóng,glazing agent
+e905c_i,Sáp vi tinh thể,Microcrystalline wax,"Chất làm bóng, chất chống tạo bọt",
+e905d,"Dầu khoáng, độ nhớt cao","Mineral oil, high viscosity","Chất làm bóng, chất chống tạo bọt",
+e905e,"Dầu khoáng, độ nhớt trung bình","Mineral oil, medium viscosity",Chất làm bóng,
+e907,Hydrogenated poly-1-decenes,Hydrogenated poly- 1-decenes,Chất làm bóng,glazing agent
+ee914,Sáp oxidised polyethylene,Oxidised polyethylene wax,Chất làm bóng,
+e925,Khí clor,Chlorine,Chất xử lý bột,flour treatment agent
+e927a,Azodicarbonamid,Azodicarbonamide,Chất xử lý bột,
+e928,Benzoyl peroxyd,Benzoyl peroxide,"Chất tẩy màu, chất xử lý bột, chất bảo quản",flour treatment agent
+e930,Calci peroxyd,Calcium peroxide,Chất xử lý bột,
+e941,Khí nitơ,Nitrogen,"Chất tạo bọt, chất khí đẩy, chất khí bao gói",propellant
+e942,Khí nitơ oxyd,Nitrous oxide,"Chất khí đẩy, chất tạo bọt, chất khí bao gói, chất chống oxy hóa",propellant
+e950,Acesulfam kali,Acesulfame potassium,"Chất tạo ngọt, chất điều vị",artificial sweetener
+e951,Aspartam,Aspartame,"Chất điều vị, chất tạo ngọt",artificial sweetener
+e952_i,Acid cyclamic,Cyclamic acid,Chất tạo ngọt,
+e952_ii,Calci cyclamat,Calcium cyclamate,Chất tạo ngọt,
+e952_iv,Natri cyclamat,Sodium cyclamate,Chất tạo ngọt,
+e953,Isomalt (Hydrogenated isomaltulose),Isomalt (Hydrogenated isomaltulose),"Chất tạo ngọt, chất chống đông vón, chất độn, chất làm bóng, chất ổn định, chất làm dày",humectant
+e954_i,Saccharin,Saccharin,Chất tạo ngọt,
+e954_ii,Calci saccharin,Calcium saccharin,Chất tạo ngọt,
+e954_iii,Kali saccharin,Potassium saccharin,Chất tạo ngọt,
+e954_iv,Natri saccharin,Sodium saccharin,Chất tạo ngọt,
+e955,Sucralose (Triclorogalacto sucrose),Sucralose (Trichlorogalac tosucrose),"Chất tạo ngọt, chất điều vị",artificial sweetener
+e956,Alitam,Alitame,Chất tạo ngọt,artificial sweetener
+e957,Thaumatin,Thaumatin,"Chất điều vị, chất tạo ngọt","flavour enhancer, artificial sweetener"
+e960a,Steviol glycosid từ Stevia rebaudiana Bertoni (Steviol,Steviol glycosides from Stevia rebaudiana Bertoni,Chất tạo ngọt,
+e960b_i,Rebaudiosid A từ multiple gene donors expressed in Yarrowia lipolytica,Rebaudioside A from multiple gene donors expressed in Yarrowia lipolytica,Chất tạo ngọt,
+e961,Neotam,Neotame,"Chất điều vị, chất tạo ngọt",
+e962,Muối aspartam- acesulfam,Aspartame- acesulfame salt,Chất tạo ngọt,
+e964,Siro polyglycitol,Polyglycitol syrup,Chất tạo ngọt,
+e965_i,Maltitol,Maltitol,"Chất độn, chất nhũ hóa, chất làm ẩm, chất ổn định, chất tạo ngọt, chất làm dày",
+e965_ii,Siro maltitol,Maltitol syrup,"Chất độn, chất nhũ hóa, chất làm ẩm, chất ổn định, chất tạo ngọt, chất làm dày",
+e966,Lactitol,Lactitol,"Chất nhũ hóa, chất tạo ngọt, chất làm dày",humectant
+e967,Xylitol,Xylitol,"Chất nhũ hóa, chất làm ẩm, chất ổn định, chất tạo ngọt, chất làm dày","humectant, stabiliser"
+e968,Erythritol,Erythritol,"Chất điều vị, chất làm ẩm, chất tạo ngọt",
+e999_i,Chất chiết xuất từ quillaia nhóm I,Quillaia extract type I,"Chất tạo bọt, chất nhũ hóa",
+e999_ii,Chất chiết xuất từ quillaia nhóm II,Quillaia extract type II,"Chất tạo bọt, chất nhũ hóa",
+e1100_i,alpha-Amylase từ Aspergillus orysee var.,alpha-Amylase from Aspergillus oryzae var.,Chất xử lý bột,
+e1100_ii,alpha-Amylase từ Bacillus stearothermophilus,alpha-Amylase from Bacillus stearothermophilus,Chất xử lý bột,
+e1100_iii,alpha-Amylase từ Bacillus subtilis,alpha-Amylase from Bacillus subtilis,Chất xử lý bột,
+e1100_iv,alpha-Amylase từ Bacillus megaterium expressed in Bacillus subtilis,alpha-Amylase from Bacillus megaterium expressed in Bacillus subtilis,Chất xử lý bột,
+e1100_v,alpha-Amylase từ Bacillus stearothermophilus expressed in Bacillus subtilis,alpha-Amylase from Bacillus stearothermophilus expressed in Bacillus subtilis,Chất xử lý bột,
+e1100_vi,Carbohydrase từ Bacillus licheniformis,Carbohydrase from Bacillus licheniformis,Chất xử lý bột,
+e1101_i,Protease từ Aspergillus orysee var.,Protease from Aspergillus oryzae var.,"Chất điều vị, chất xử lý bột, chất ổn định",
+e1101_ii,Papain,Papain,Chất điều vị,
+e1101_iii,Bromelain,Bromelain,"Chất điều vị, chất xử lý bột, chất ổn định",
+e1102,Glucose oxydase,Glucose oxidase,Chất chống oxy hóa,antioxidant
+e1104,Lipases,Lipases,Chất điều vị,flavour enhancer
+e1105,Lysozym,Lysozyme,Chất bảo quản,preservative
+e1200,Polydextrose,Polydextroses,"Chất độn, chất làm bóng, chất làm ẩm, chất ổn định, chất làm dày",humectant
+e1201,Polyvinyl pyrrolidon,Polyvinyl pyrrolidone,"Chất ổn định, chất nhũ hóa, chất làm bóng, chất làm dày",?
+e1202,"Polyvinyl pyrrolidon, không tan","Polyvinyl pyrrolidone, insoluble","Chất giữ màu, chất ổn định",colour stabiliser
+e1203,Polyvinyl alcohol,Polyvinyl alcohol,"Chất làm bóng, chất làm dày",
+e1204,Pullulan,Pullulan,"Chất làm bóng, chất làm dày",
+e1209,Copolyme ghép của Polyvinyl alcohol (PVA) - Polyethylen glycol (PEG),Polyvinyl alcohol (PVA) - polyethylene glucol (PEG) graft co-polymer,"Chất làm bóng, chất ổn định, chất kết dính",
+e1210,Natri polyacrylat,Sodium polyacrylate,Chất ổn định,
+e1400,"Dextrin, tinh bột rang","Dextrins, roasted starch","Chất mang, chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1401,Tinh bột đã được xử lý bằng acid,Acid-treated starch,"Chất nhũ hoá, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1402,Tinh bột đã được xử lý bằng kiềm,Alkaline treated starch,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1403,Tinh bột đã khử màu,Bleached starch,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1404,Tinh bột xử lý oxy hóa,Oxydized starch,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1405,"Tinh bột, xử lý bằng enzim","Starches, enzyme treated","Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1410,Monostarch phosphat,Monostarch phosphate,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1412,Distarch phosphat,Distarch phosphate,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1413,Phosphated distarch phosphat,Phosphated distarch phosphate,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1414,Acetylated distarch phosphat,Acetylated distarch phosphate,"Chất nhũ hoá, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1420,Starch acetate,Starch acetate,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1421,Starch acetate este hóa với vinyl acetate,Starch acetate esterified with vinyl acetate,Chất xử lý bột,
+e1422,Acetylated distarch adipat,Acetylated distarch adipate,"Chất nhũ hoá, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1440,Hydroxypropyl starch,Hydroxypropyl starch,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1442,Hydroxypropyl distarch phosphat,Hydroxypropyl distarch phosphate,"Chất chống đông vón, chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1450,Starch natri octenyl succinat,Starch sodium octenyl succinate,"Chất nhũ hóa, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1451,Acetylated oxydized starch,Acetylated oxidized starch,"Chất nhũ hoá, chất ổn định, chất làm dày","thickener, vegetable gum"
+e1503,Dầu Castor,Castor oil,"Chất chống đông vón, chất mang, chất nhũ hóa, chất làm bóng",
+e1504_i,Cyclotetraglucose,Cyclotetraglucose,Chất mang,
+e1504_ii,Siro cyclotetraglucose,Cyclotetraglucose syrup,Chất mang,
+e1505,Triethyl citrat,Triethyl citrate,"Chất mang, chất nhũ hóa, chất ổn định, chất tạo phức kim loại","thickener, vegetable gum"
+e1518,Triacetin,Triacetin,"Chất mang, chất nhũ hóa, chất làm ẩm",humectant
+e1520,Propylen glycol,Propylene glycol,"Chất nhũ hóa, chất mang, chất làm bóng, chất làm ẩm",humectant
+e1521,Polyethylen glycol,Polyethylene glycol,"Chất chống tạo bọt, chất mang, chất nhũ hóa, chất làm bóng, chất làm dày",antifoaming agent
+e100,,curcumins,,colour
+e101,,riboflavins,,
+e103,,"alkannin, chrysoine resorcinol",,colour (red)
+e107,,Yellow 2G,,colour (yellow and orange)
+e111,,Orange GGN. Delisted,,colour (orange)
+e121,,"Citrus red 2, Orcein, Orchil",,colour (red)
+e125,,"Ponceau SX, Scarlet GN",,colour
+e126,,Ponceau 6R. Delisted,,colour
+e128,,Red 2G,,colour
+e130,,Indanthrene blue RS,,colour (blue)
+e131,,Patent blue V,,colour (blue)
+e141,,"Chlorophylls and chlorophyllins, copper complexes",,
+e142,,Green S,,colour (green)
+e150,,Caramels,,
+e152,,Carbon black,,colour (brown and black)
+e154,,Brown FK,,colour (brown and black)
+e160a,,carotenes,,
+e160a_iv,,"beta-carotene, algae",,colour
+e160b,,annatto extracts,,
+e160c,,paprika oleoresin (paprika extract),,colour
+e160d,,lycopenes,,
+e161a,,flavoxanthin,,colour
+e161b,,luteins,,
+e161b_ii,,Tagetes extract,,colour
+e161c,,kryptoxanthin,,colour
+e161d,,rubixanthin,,colour
+e161e,,violaxanthin,,colour
+e161f,,rhodoxanthin,,colour
+e161h,,zeaxanthins,,colour
+e161h_ii,,zeaxanthin-rich extract from Tagetes erecta,,colour
+e161i,,citranaxanthin. Delisted,,colour
+e161j,,astaxanthin. Delisted,,colour
+e163,,anthocyanins,,colour
+e165,,Gardenia blue,,colour
+e166,,sandalwood,,colour
+e170,,calcium carbonates,,
+e170_ii,,calcium hydrogen carbonate,,"Acidity regulator, anticaking agent, stabilizer, surface colourant"
+e172,,iron oxides,,
+e173,,aluminium,,colour (silver)
+e174,,silver,,colour (silver)
+e175,,gold,,colour (gold)
+e180,,Lithol Rubine BK,,colour
+e182,,orchil,,colour
+e209,,heptyl p-hydroxybenzoate,,preservative
+e215,,sodium ethyl para-hydroxybenzoate,,preservative
+e216,,propylparaben (propyl para-hydroxybenzoate),,preservative
+e217,,sodium propyl para-hydroxybenzoate,,preservative
+e219,,sodium methyl para-hydroxybenzoate,,preservative
+e226,,calcium sulfite,,"preservative, antioxidant"
+e227,,"calcium bisulfite, calcium hydrogen sulfite",,"preservative, antioxidant"
+e228,,"potassium bisulfite, potassium hydrogen sulfite",,"preservative, antioxidant"
+e230,,diphenyl (biphenyl),,preservative
+e233,,thiabendazole,,preservative
+e236,,formic acid,,preservative
+e237,,sodium formate,,preservative
+e238,,calcium formate,,preservative
+e240,,formaldehyde,,preservative
+e241,,gum guaicum,,preservative
+e252,,potassium nitrate,,"preservative, colour fixative"
+e261,,potassium acetates,,"preservative, acidity regulator"
+e262,,"sodium acetate, sodium hydrogen acetate",,"preservative, acidity regulator"
+e264,,ammonium acetate,,"preservative, acidity regulator"
+e265,,dehydroacetic acid,,preservative
+e284,,boric acid,,preservative
+e285,,"sodium tetraborate, borax",,preservative
+e303,,potassium ascorbate,,antioxidant (water-soluble)
+e307,,tocopherols,,
+e308,,gamma-tocopherol(synthetic),,antioxidant
+e309,,delta-tocopherol(synthetic),,antioxidant
+e311,,octyl gallate,,antioxidant
+e312,,dodecyl gallate,,antioxidant
+e317,,erythorbin acid[citation needed],,antioxidant
+e318,,sodium erythorbin[citation needed],,antioxidant
+e322,,lecithins,,"antioxidant, emulsifier"
+e328,,ammonium lactate,,food acid
+e331,,sodium citrates,,food acid
+e332,,potassium citrates,,food acid
+e333,,calcium citrates,,"food acid, firming agent"
+e335,,sodium tartrates,,food acid
+e336,,potassium tartrates,,food acid
+e339,,sodium phosphates,,mineral salt
+e340,,potassium phosphates,,mineral salt
+e341,,calcium phosphates,,"mineral salt, anti-caking agent, firming agent"
+e342,,ammonium phosphates,,mineral salt
+e343,,magnesium phosphates,,"mineral salt, anti-caking agent"
+e344,,lecithin citrate,,preservative
+e345,,magnesium citrate,,acidity regulator
+e349,,ammonium malate,,food acid
+e350,,sodium malates,,food acid
+e351,,potassium malate,,food acid
+e352,,calcium malates,,food acid
+e354,,calcium tartrate,,"food acid, emulsifier"
+e356,,sodium adipate,,food acid
+e357,,potassium adipate,,food acid
+e359,,ammonium adipates,,acidity regulator
+e364,,sodium succinates,,"acidity regulator, flavour enhancer"
+e366,,potassium fumarate,,food acid
+e367,,calcium fumarate,,food acid
+e368,,ammonium fumarate,,food acid
+e370,,"1,4-heptonolactone",,food acid
+e375,,"niacin (nicotinic acid), nicotinamide (vitamin B3)",,colour retention agent
+e387,,oxystearin,,"antioxidant, sequestrant"
+e390,,distearyl thiodipropionate,,antioxidant
+e391,,phytic acid,,preservative
+e399,,calcium lactobionate,,stabilizer
+e409,,arabinogalactan,,"thickener, vegetable gum"
+e420,,sorbitol,,"humectant, emulsifier, sweetener"
+e428,,"gelatin, gelatine (not classified as an additive)",,"carrier, emulsifier, gelling agent, stabiliser, thickener"
+e441,,"Superglycerinated hydrogenated rapeseed oil, Hydrogenated rapeseed oil superglycerinated, Superglycerinated fully hydrogenated rapeseed oil",,Emulsifier
+e443,,brominated vegetable oil,,"emulsifier, stabiliser"
+e445,,glycerol esters of wood rosins,,emulsifier
+e450,,diphosphates,,"mineral salt, emulsifier"
+e451,,triphosphates,,"mineral salt, emulsifier"
+e452,,polyphosphates,,"mineral salt, emulsifier"
+e460,,"powdered cellulose, microcrystalline cellulose",,anti-caking agent
+e470,,magnesium stearate,,"emulsifier, stabiliser"
+e470a,,"sodium, potassium and calcium salts of fatty acids",,"emulsifier, stabiliser, anti-caking agent"
+e470b,,magnesium salts of fatty acids,,"emulsifier, stabiliser, anti-caking agent"
+e472d,,tartaric acid esters of mono- and diglycerides of fatty acids,,emulsifier
+e472f,,mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids,,emulsifier
+e478,,lactylated fatty acid esters of glycerol and propylene glycol,,emulsifier
+e479b,,thermally oxidised soya bean oil,,emulsifier
+e481,,sodium stearoyl lactylate,,emulsifier
+e482,,calcium stearoyl lactylate,,emulsifier
+e483,,stearyl tartarate,,emulsifier
+e500,,"sodium carbonate, sodium bicarbonate (E500ii)",,mineral salt
+e501,,"potassium carbonate, potassium bicarbonate",,mineral salt
+e503,,"ammonium carbonate, ammonium bicarbonate",,mineral salt
+e504,,magnesium carbonate,,"anti-caking agent, mineral salt"
+e513,,sulfuric acid,,acidity regulator
+e514,,sodium sulfate,,mineral salt
+e515,,potassium sulfate,,"mineral salt, seasoning"
+e517,,ammonium sulfate,,"mineral salt, improving agent"
+e519,,cupric sulfate,,mineral salt
+e520,,aluminium sulfate,,mineral salt
+e521,,aluminium sodium sulfate,,mineral salt
+e522,,aluminium potassium sulfate,,mineral salt
+e540,,dicalcium diphosphate,,anti-caking agent
+e541,,sodium aluminium phosphate,,"acidity regulator, emulsifier"
+e544,,calcium polyphosphates,,anti-caking agent
+e545,,ammonium polyphosphates,,anti-caking agent
+e553_i ,,"magnesium silicate, synthetic[6]",,anti-caking agent
+e553b,,talc,,anti-caking agent
+e555,,potassium aluminium silicate,,anti-caking agent
+e556,,calcium aluminosilicate (calcium aluminium silicate),,anti-caking agent
+e558,,bentonite,,anti-caking agent
+e559,,"kaolin, aluminium silicate",,anti-caking agent
+e570,,stearic acid,,anti-caking agent
+e641,,leucine,,flavour enhancer
+e650,,zinc acetate,,flavour enhancer
+e900,,dimethylpolysiloxane,,"emulsifier, anti-caking agent"
+e905,,paraffins,,glazing agent
+e912,,montanic acid esters,,humectant
+e914,,oxidised polyethylene wax,,humectant
+e920,,L-cysteine,,flour treatment agent
+e924,,potassium bromate,,flour treatment agent
+e926,,chlorine dioxide,,flour treatment agent
+e927b,,carbamide,,flour treatment agent
+e938,,argon,,propellant
+e939,,helium,,propellant
+e943a,,butane,,propellant
+e943b,,isobutane,,propellant
+e952,,"cyclamic acid, cyclamates",,artificial sweetener
+e954,,saccharin,,artificial sweetener
+e959,,neohesperidin dihydrochalcone,,artificial sweetener
+e965,,maltitol,,"humectant, stabiliser"
+e999,,quillaia extract,,humectant
+e1001,,choline salts and esters,,emulsifier
+e1100,,amylases,,flour treatment agent
+e1103,,invertase,,?
+e1510,,ethanol (not classified as an additive),,alcohol
