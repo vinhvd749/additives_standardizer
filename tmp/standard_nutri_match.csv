@@ -1,0 +1,27 @@
+query,match,score,jacc_score
+vitamin b6,"vitamin b6 (pyridoxal, pyridoxine, pyridoxamine)",4.490437,1.0
+vitamin b5,pantothenic acid (vitamin b5),4.964676,1.0
+vitamin e,vitamin e (alpha-tocopherol),4.964676,1.0
+vitamin d,vitamin d (calciferol),5.554147,1.0
+pantothenic acid,acid pantothenic,6.6502995,1.0
+pantothenic acid,pantothenic acid (vitamin b5),6.348061,1.0
+vitamin b2,riboflavin (vitamin b2),5.554147,1.0
+energy,energy from fat,3.7339993,1.0
+vitamin b3,niacin (vitamin b3; nicotinic acid),4.490437,1.0
+acid pantothenic,pantothenic acid,6.6502995,1.0
+acid pantothenic,pantothenic acid (vitamin b5),5.090463,1.0
+vitamin b1,thiamin (vitamin b1),5.554147,1.0
+dietary fiber,soluble dietary fiber,8.4973755,1.0
+biotin,biotin (vitamin b7),3.7339993,1.0
+niacin,niacin (vitamin b3; nicotinic acid),2.9501152,1.0
+vitamin b9,folate (folic acid; vitamin b9),4.490437,1.0
+fiber,dietary fiber,3.911159,1.0
+fiber,soluble dietary fiber,3.3915362,1.0
+vitamin a,vitamin a (preformed = retinol; beta-carotene can be converted to vitamin a),4.295032,1.0
+acid folic,folate (folic acid; vitamin b9),4.826708,1.0
+fat,unsaturated fat,3.0166008,1.0
+fat,trans fat,3.0166008,1.0
+fat,monounsaturated fat,3.0166008,1.0
+fat,polyunsaturated fat,3.0166008,1.0
+fat,saturated fat,3.0166008,1.0
+fat,energy from fat,2.615826,1.0
