@@ -1,134 +1,170 @@
-,count
-energy,3709
-carbohydrate,3208
-protein,3042
-total fat,2710
-sodium,1744
-total sugars,1516
-saturated fat,1039
-calcium,869
-dietary fiber,785
-vitamin a,461
+term,count
+energy,3701
+carbohydrate,3253
+protein,3021
+total fat,2689
+sodium,1746
+total sugars,1508
+saturated fat,1030
+calcium,896
+dietary fiber,788
+vitamin a,471
 vitamin b6,340
-energy from fat,335
-iron,314
-vitamin b1,297
-vitamin d3,285
-cholesterol,277
-vitamin b2,275
-potassium,272
-zinc,266
-magnesium,259
-vitamin b12,257
-vitamin c,250
-vitamin e,241
-phosphorus,224
+iron,340
+energy from fat,332
+potassium,296
+vitamin b1,295
+magnesium,284
+vitamin d3,281
+vitamin b2,277
+zinc,271
+cholesterol,269
+vitamin b12,253
+phosphorus,251
+vitamin e,250
+vitamin c,247
 lipid,218
-salt,139
+dha,176
+salt,137
 biotin,131
 vitamin b3,126
-vitamin k1,122
+follic acid,118
 iot,118
-follic acid,117
-fat,117
+fat,118
+moisture,117
 proteins,115
-niacin,112
-sugars,107
-dha,106
-selen,106
-vitamin d,104
+niacin,111
+selen,109
+sugars,108
+vitamin d,102
+cl,101
+acid linoleic,98
 carbohydrates,95
-trans fat,94
 pantothenic acid,93
-acid linoleic,88
-moisture,84
-cl,82
+omega 6 fatty acids,89
+vitamin k1,89
+acid alpha linoleic,87
+trans fat,86
 added sugar,82
+omega 9 fatty acids,80
+taurin,77
+manganese,76
 monounsaturated fat,72
 cu,71
 polyunsaturated fat,66
-taurin,64
+omega,64
+taurine,62
+lysin,60
 cholline,57
-manganese,54
-lysin,54
+lutein,55
 total energy,54
 vitamin b5,52
-taurine,50
 of which sugars,50
+ara,49
+omega 3,48
 inositol,45
-total carbohydrate,44
+total carbohydrate,45
 protid,43
 vitamin pp,43
-lutein,40
+nucleotid,43
 of which saturates,40
 fiber,39
-nucleotid,35
+vitamin k2,33
 tryptophan,33
 vitamin b9,30
-vitamin k2,30
-acid folic,27
+2 fl hmo,30
+gos,29
+iodine,26
+acid folic,26
+oligofructose fos,24
 litpit,23
+carnitin,23
 fibre,23
 selenium,23
 tea polyphenol,22
-gos,22
-carnitin,21
-iodine,21
+fluorid,21
 soluble dietary fiber,21
-fluorid,20
+tds,20
 acid amin,20
-tds,19
+aa,20
+te vitamin k1,19
 ntp,19
+bicarbonate hco3,18
 beta caroten,18
 nh3,18
 total carbohydrates,18
+mct,17
+gamma oryzanol,17
+copper,17
 unsaturated fat,16
-acid pantothenic,16
-copper,16
-mct,15
+acid pantothenic,15
+α te vitamin k1,14
+chloride,14
+re vitamin d3,13
 of which saturated,13
 ash,12
 lysine,11
+collagen,10
+phytosterol,10
 lactoferrin,10
-ara,10
 lactulose,10
+acid alpha linolenic,10
 caffeine,9
 crude fiber,9
 vitamin k,9
 mufa,9
-chloride,9
+alpha lactalbumin,9
+no3,8
 otpp,8
-collagen,8
-aa,8
+lodide u,8
+re,8
+beta glucan,8
+sodium 1,8
 choline,8
+chromium,8
+molybdenum,8
 fibres,8
-beta glucan,7
+h2sio3,7
 lactoza,7
+bifidus bl,7
+raffinose,7
+re vitamin b1,7
+dha docosahexaenoic acid,7
 cholin,7
-chromium,7
-molybdenum,7
 vitamin b8,6
+molybden,6
 igg,6
-phytosterol,6
 pufa,6
 dietary fibre,6
 so2,5
 theanin,5
-molybden,5
+dietary fiber 1 g total sugars,5
+protein 0 total fat 0 saturated fat 0 carbohydrate,5
+bb,5
+bifidobacterium,5
+beta carotene,5
 total carb,5
 isomalt,4
 nicotinamide,4
+axit sialic,4
+axit oleic,4
 pdx,4
+α te,4
 polyphenol,4
-bifidobacterium,4
+protein 0 carbohydrate,4
+natri,4
+kali,4
+clorid,4
+mangan,4
 no2,3
-no3,3
+vitamin b12 0 48 taurine,3
 lactate,3
 citrate,3
 egcg,3
 axit pantothenic,3
 serine,3
 crom,3
+epa,3
 unmonounsaturated fat,3
 unpolyunsaturated fat,3
 axit lauric,3
@@ -136,74 +172,154 @@ nts,3
 fufa,3
 peroxit,3
 sorbitol,3
+bb 12 10,3
 cystine,3
 hydroxyproline,3
+omega 3 fatty acids,3
+total fat 0 protein 0 carbohydrate,3
+vitamin d 0 calcium,3
+total fat 0 saturated fat 0 dietary fiber 0 sodium,3
+dietary fiber 0 protein,3
+trans fat 0 cholesterol,3
+dha epa,3
 lactose,3
+ara arachidonic acid,3
+fos,3
+l carnitin,3
+calci,3
+phospho,3
+magnesi,3
+l carnitine,3
+2 fucosyllactose 2 fl,3
+fat total,3
+carbohydrate total,3
 energie,3
 of which saturated fat,3
 saturates fat,3
-h2sio3,2
 folate,2
+l,2
+vitamin a 275 i o vitamin d3,2
 axit acetic,2
 chromium picolinate,2
+energy 134 6 209 4 kca protein,2
+carbohydrate 38 64,2
 eicosapentaenoic acid,2
 docosahexaenoic acid,2
+energy from fat 222 kcal total fat,2
 lnnt,2
 gaba,2
 curcumin,2
-polyphenols,2
+trans fat 0 carbohydrate,2
+trans fat 0 cholesterol 0 sodium,2
+dietary fiber 0 total sugars,2
+total fat 0 carbohydrate,2
 lgg,2
+α te vitamin c,2
 axid folic,2
+mct medium chain tiglyerdes,2
+inulin fos,2
 fucoidan,2
 acid pantothnic,2
+vitamin b6 mcg vitamin b12,2
 sel,2
 polyunsaturates,2
+ไขม นท งหมด,2
 of which polyols,2
 saturated,2
 fett,2
+davon gesattigte fettsauren,2
 kohlenhydrate,2
+davon zucker,2
+salz,2
 energia,2
 polyols,2
+g salt,2
 incl,2
 thiamin,2
 riboflavin,2
-sio,1
+metasilicic acid h sio,1
 ba,1
 folacin,1
 fosfor,1
 silica,1
+total sugars 10 2 protein,1
+energy 320 kkal total fat,1
 nitrite,1
-g,1
+sodium 50 g carbohydrate,1
+energy 513 kcla energy from fat,1
+saturated fat 1 1 g sodium,1
 vitamin b7,1
 cahmb,1
 hmb,1
+vitamin a caroten,1
+ne vitamin b6,1
 minerals,1
+dietary fiber 22,1
+total fat unclear,1
 isoflavones,1
 dry matter,1
+total fat 1,1
+energy 188 315 kcsl protein,1
+insoluble,1
 erythritol,1
+vitamin b2 0 5 mh niacin,1
 alcohol,1
+z,1
+manganese 62 mcg iot,1
+dha 50 mh ara,1
+bb 12,1
+vitamin b12 0 45 mxg vitamin c,1
+iv wijs,1
+l2,1
 acid laurid,1
-8mg,1
+energy 180 kca l protein,1
+total fat 0 saturated fat 0 dietary fiber,1
+dietary fiber 0 total fat 0 saturated fat 0 trans fat 0 sodium,1
+cholesterol 0 sodium,1
+total fat 0 protein 0 polyphenols,1
 wellmune,1
+iron 0 potassium,1
 fibers,1
 fruit content,1
+protein 0 total fat 0 sodium,1
+polyphenols,1
+protein 0 total fat 0 saturated fat 0 trans fat 0 cholesterol 0 sodium,1
+trans fat 0 cholesterol 0 sodium 0 carbohydrate,1
+potassium 0,1
+total fat 0 protein 0 sodium,1
+total fat 0 sodium,1
+total fat 0 trans fat 0 sodium,1
 adenosine,1
 cordycepin,1
-gluten,1
-natri,1
-kali,1
-clorid,1
-calci,1
-phospho,1
-magnesi,1
-mangan,1
+dietary fiber 0 sodium,1
+gluten 0,1
+vitamin b6 q,1
+energy 252 8 kca total fat,1
+mct medium chain triglycerides,1
+phosphatidylserine,1
 hydrat carbon,1
+humidity,1
+magie,1
+chrom,1
 acid pantothetic,1
+manganese 169μ g iron,1
+selenium 4μ g vitamin a,1
+vitamin k1 5 5μ g vitamin c,1
+acid folic 27 5μ g acid pantothenic,1
+vitamin b12 0 4μ g biotin 3 6μ g cholin,1
+energy 39 2 kacl carbohydrate,1
 graisse,1
 quantités saturés,1
 quantité sucre,1
 protéine,1
+ก โลแคลอร total energy,1
+ไขม นท งหมด total fat,1
+โปรต น protein,1
+คาร โบไฮเดรตท งหมด total carbohydrate,1
+น ำตาล sugar,1
+โซเด ยม sodium,1
 saturates,1
+mono unsaturates,1
 valor energético,1
 grasas totales,1
 saturadas,1
@@ -212,15 +328,21 @@ azúcares,1
 proteinas,1
 sal,1
 sat fat,1
+โปรต น,1
+คาร โบไฮเดรตท งหมด,1
+ใยอาหาร,1
+โซเด ยม,1
 tuky,1
 kyseliny,1
 sacharidy,1
 cukry,1
 bielkoviny,1
 sol,1
+dietary fiber less than,1
 monounsturates,1
 starch,1
 total saturated,1
+polyols sugar alcohols,1
 includes,1
 maltitol,1
 monoinsaturadas,1
@@ -229,6 +351,7 @@ valeur énergétique,1
 protéines,1
 carbohydtate,1
 linoleic acid,1
+a linoleic acid,1
 folic acid,1
 lodine,1
 matieres grasses,1
@@ -240,4 +363,10 @@ carboidrati,1
 dont sucres,1
 proteine,1
 sale,1
+vitamin b2 riboflavin,1
+vitamin b3 niacin,1
+vitamin b6 pyridoxin,1
+vitamin b9 folic acid,1
+vitamin b5 pantothenic acid,1
 fats,1
+omega 6,1
