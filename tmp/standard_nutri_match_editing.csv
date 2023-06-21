@@ -1,0 +1,66 @@
+query,match,score,jacc_score
+vitamin b6,"vitamin b6 (pyridoxal, pyridoxine, pyridoxamine)",5.1928735,1.0
+vitamin b5,pantothenic acid (vitamin b5),5.777891,1.0
+omega 9 fatty acids,omega 6 fatty acids,11.233521,0.75
+omega 9 fatty acids,omega 3 fatty acids,11.233521,0.75
+polyphenol,tea polyphenol,4.879349,1.0
+vitamin e,vitamin e (alpha-tocopherol),5.777891,1.0
+te vitamin k1,α te vitamin k1,11.222377,1.0
+omega,omega 3,3.9931533,1.0
+omega,omega 9 fatty acids,2.989244,1.0
+omega,omega 6 fatty acids,2.989244,1.0
+omega,omega 3 fatty acids,2.989244,1.0
+vitamin d,vitamin d (calciferol),6.191824,1.0
+vitamin d,vitamin d 0 calcium,5.494787,1.0
+pantothenic acid,acid pantothenic,7.2026005,1.0
+pantothenic acid,pantothenic acid (vitamin b5),6.8025513,1.0
+vitamin k1,te vitamin k1,6.191824,1.0
+vitamin k1,α te vitamin k1,5.494787,1.0
+vitamin b2,riboflavin (vitamin b2),6.5156317,1.0
+carnitin,l carnitin,4.879349,1.0
+dha,dha epa,4.501168,1.0
+dha,dha docosahexaenoic acid,3.8540025,1.0
+saturated,saturated fat,4.879349,1.0
+energy,energy from fat,4.17781,1.0
+vitamin b3,niacin (vitamin b3; nicotinic acid),5.1928735,1.0
+acid pantothenic,pantothenic acid,7.2026005,1.0
+acid pantothenic,pantothenic acid (vitamin b5),5.3918114,1.0
+acid linoleic,acid alpha linoleic,6.7326937,1.0
+fibre,dietary fibre,4.879349,1.0
+beta carotene,vitamin a ( retinol; beta-carotene ),7.4327807,1.0
+α te vitamin k1,te vitamin k1,12.358641,0.75
+vitamin k,"vitamin k (phylloquinone, menadione)",5.494787,1.0
+fos,oligofructose fos,4.879349,1.0
+vitamin d3,re vitamin d3,6.5156317,1.0
+vitamin b1,thiamin (vitamin b1),6.191824,1.0
+vitamin b1,re vitamin b1,6.191824,1.0
+omega 3,omega 3 fatty acids,7.9772043,1.0
+dietary fiber,soluble dietary fiber,8.444843,1.0
+dietary fiber,dietary fiber 0 protein,7.5580697,1.0
+biotin,biotin (vitamin b7),4.17781,1.0
+omega 6 fatty acids,omega 9 fatty acids,11.233521,0.75
+omega 6 fatty acids,omega 3 fatty acids,11.233521,0.75
+niacin,niacin (vitamin b3; nicotinic acid),3.2447643,1.0
+ara,ara arachidonic acid,4.17781,1.0
+vitamin b9,folate (folic acid; vitamin b9),5.1928735,1.0
+omega 3 fatty acids,omega 9 fatty acids,11.233521,0.75
+omega 3 fatty acids,omega 6 fatty acids,11.233521,0.75
+fiber,crude fiber,3.9931533,1.0
+fiber,dietary fiber,3.9931533,1.0
+fiber,soluble dietary fiber,3.4190288,1.0
+fiber,dietary fiber 0 protein,2.989244,1.0
+vitamin a,vitamin a ( retinol; beta-carotene ),5.1928735,1.0
+α te,α te vitamin k1,8.653846,1.0
+protein,dietary fiber 0 protein,3.6526437,1.0
+saturates,saturates fat,4.879349,1.0
+epa,dha epa,4.879349,1.0
+acid folic,folate (folic acid; vitamin b9),5.2290564,1.0
+fat,unmonounsaturated fat,3.2663686,1.0
+fat,unsaturated fat,3.2663686,1.0
+fat,trans fat,3.2663686,1.0
+fat,monounsaturated fat,3.2663686,1.0
+fat,unpolyunsaturated fat,3.2663686,1.0
+fat,polyunsaturated fat,3.2663686,1.0
+fat,saturated fat,3.2663686,1.0
+fat,saturates fat,3.2663686,1.0
+fat,energy from fat,2.7967393,1.0
